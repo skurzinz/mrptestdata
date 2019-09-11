@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Exported from Zotero</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated from Zotero database</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="book" xml:id="Diószegi1993" corresp="http://zotero.org/groups/2042149/items/REGMDJUC">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">963-05-6005-4</idno>
+                        <editor>
+                            <forename>István</forename>
+                            <surname>Diószegi</surname>
+                        </editor>
+                        <editor>
+                            <forename>Éva</forename>
+                            <surname>Somogyi</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Budapest</pubPlace>
+                            <biblScope unit="volume">Ser. 2, Bd. 4</biblScope>
+                            <publisher>Akadémiai Kiadó</publisher>
+                            <date>1993</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Somogyi1999" corresp="http://zotero.org/groups/2042149/items/KD8IJD9Y">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">963-05-7594-9</idno>
+                        <editor>
+                            <forename>Éva</forename>
+                            <surname>Somogyi</surname>
+                        </editor>
+                        <edition>1. Aufl</edition>
+                        <imprint>
+                            <pubPlace>Budapest</pubPlace>
+                            <biblScope unit="volume">Ser. 2, Bd. 1,1</biblScope>
+                            <publisher>Akadémiai Kiadó</publisher>
+                            <date>1999</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Somogyi1991" corresp="http://zotero.org/groups/2042149/items/FZDTDIRY">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">963-05-5379-1</idno>
+                        <editor>
+                            <forename>Éva</forename>
+                            <surname>Somogyi</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Budapest</pubPlace>
+                            <biblScope unit="volume">Ser. 2, Bd. 5</biblScope>
+                            <publisher>Akadémiai Kiadó</publisher>
+                            <date>1991</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Malfèr2003" corresp="http://zotero.org/groups/2042149/items/LWM8AM2N">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-209-03759-0</idno>
+                        <editor>
+                            <forename>Stefan</forename>
+                            <surname>Malfèr</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 4, Bd. 1</biblScope>
+                            <publisher>Österr. Bundesverl.</publisher>
+                            <date>2003</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Kletečka1996" corresp="http://zotero.org/groups/2042149/items/XPKECGM7">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-215-12465-3</idno>
+                        <editor>
+                            <forename>Thomas</forename>
+                            <surname>Kletečka</surname>
+                        </editor>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 1</biblScope>
+                            <publisher>Österr. Bundesverl.</publisher>
+                            <date>1996</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Rumpler1970" corresp="http://zotero.org/groups/2042149/items/QJVTAZV7">
+                    <monogr>
+                        <title level="m">Die Protokolle des österreichischen Ministerrates: 1848 -
+                            1867</title>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <editor>
+                            <forename>Friedrich</forename>
+                            <surname>Engel-Janosi</surname>
+                        </editor>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">1970</biblScope>
+                            <publisher>Österr. Bundesverl. für Unterricht, Wiss. u.
+                                Kunst</publisher>
+                            <date>1970</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie</title>
+                    </series>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Kletečka2002" corresp="http://zotero.org/groups/2042149/items/4TZ9GML5">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-209-03647-0</idno>
+                        <editor>
+                            <forename>Thomas</forename>
+                            <surname>Kletečka</surname>
+                        </editor>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 2, Bd. 1</biblScope>
+                            <publisher>öbv &amp; hpt</publisher>
+                            <date>2002</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Heindl1979" corresp="http://zotero.org/groups/2042149/items/9U2T7Z27">
+                    <monogr>
+                        <title level="m">Die Protokolle des österreichischen Ministerrates: 1848 -
+                            1867</title>
+                        <idno type="ISBN">3-215-02760-7</idno>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">3, 1,3,2</biblScope>
+                            <publisher>Österr. Bundesverl. für Unterricht, Wiss. u.
+                                Kunst</publisher>
+                            <date>1979</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie</title>
+                    </series>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Rumpler1971" corresp="http://zotero.org/groups/2042149/items/CU29QV5Q">
+                    <monogr>
+                        <title level="m">Die Protokolle des österreichischen Ministerrates: 1848 -
+                            1867</title>
+                        <idno type="ISBN">3-215-71221-0</idno>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">6, 1</biblScope>
+                            <publisher>Österr. Bundesverl. für Unterricht, Wiss. u.
+                                Kunst</publisher>
+                            <date>1971</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie</title>
+                    </series>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Heindl1975" corresp="http://zotero.org/groups/2042149/items/8M9R7FKM">
+                    <monogr>
+                        <title level="m">Die Protokolle des österreichischen Ministerrates: 1848 -
+                            1867</title>
+                        <idno type="ISBN">3-215-71218-0</idno>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">3, 1,3,1</biblScope>
+                            <publisher>Österr. Bundesverl. für Unterricht, Wiss. u.
+                                Kunst</publisher>
+                            <date>1975</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie</title>
+                    </series>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Rumpler1973" corresp="http://zotero.org/groups/2042149/items/IHXN6NEP">
+                    <monogr>
+                        <title level="m">Die Protokolle des österreichischen Ministerrates: 1848 -
+                            1867</title>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <editor>
+                            <forename>Horst</forename>
+                            <surname>Brettner-Messler</surname>
+                        </editor>
+                        <editor>
+                            <forename>null</forename>
+                            <surname>Belcredi</surname>
+                        </editor>
+                        <editor>
+                            <forename>Friedrich</forename>
+                            <surname>Engel-Janosi</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">6, 2</biblScope>
+                            <publisher>Österr. Bundesverl. für Unterricht, Wiss. u.
+                                Kunst</publisher>
+                            <date>1973</date>
+                        </imprint>
+                    </monogr>
+                    <series>
+                        <title level="s">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie</title>
+                    </series>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Malfèr2009" corresp="http://zotero.org/groups/2042149/items/7VH9GINY">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">978-3-7001-6549-1</idno>
+                        <editor>
+                            <forename>Stefan</forename>
+                            <surname>Malfèr</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 4, Bd. 3</biblScope>
+                            <publisher>Verl. der Österreichischen Akad. der Wiss.</publisher>
+                            <date>2009</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Brettner-Messler1986" corresp="http://zotero.org/groups/2042149/items/ZC5ZJXZY">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-215-06435-9</idno>
+                        <editor>
+                            <forename>Horst</forename>
+                            <surname>Brettner-Messler</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 5, Bd. 4</biblScope>
+                            <publisher>Österr. Bundesverl.</publisher>
+                            <date>1986</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Malfer2015" corresp="http://zotero.org/groups/2042149/items/C2BSUY7M">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">978-3-7001-7788-3</idno>
+                        <author>
+                            <forename>Stefan</forename>
+                            <surname>Malfer</surname>
+                        </author>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 3, Bd. 7</biblScope>
+                            <publisher>Verl. der Österreichischen Akademie der
+                                Wissenschaften</publisher>
+                            <date>2015</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Brettner-Messler1977" corresp="http://zotero.org/groups/2042149/items/4NP7QTWN">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-215-02511-6</idno>
+                        <editor>
+                            <forename>Horst</forename>
+                            <surname>Brettner-Messler</surname>
+                        </editor>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 5, Bd. 1</biblScope>
+                            <publisher>Österr. Bundesverl.</publisher>
+                            <date>1977</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Malfèr2007" corresp="http://zotero.org/groups/2042149/items/2YGVQDY5">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">978-3-209-05956-7</idno>
+                        <editor>
+                            <forename>Stefan</forename>
+                            <surname>Malfèr</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 4, Bd. 2</biblScope>
+                            <publisher>ÖBV</publisher>
+                            <date>2007</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Kletečka2005" corresp="http://zotero.org/groups/2042149/items/IDNJ3D4V">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-209-04697-2</idno>
+                        <editor>
+                            <forename>Thomas</forename>
+                            <surname>Kletečka</surname>
+                        </editor>
+                        <editor>
+                            <forename>Anatol</forename>
+                            <surname>Schmied-Kowarzik</surname>
+                        </editor>
+                        <editor>
+                            <forename>Stefan</forename>
+                            <surname>Malfèr</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 2, Bd. 2</biblScope>
+                            <publisher>öbv &amp; hpt</publisher>
+                            <date>2005</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Malfèr1997" corresp="http://zotero.org/groups/2042149/items/WAY2825L">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-215-12730-X</idno>
+                        <editor>
+                            <forename>Stefan</forename>
+                            <surname>Malfèr</surname>
+                        </editor>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 5, 9</biblScope>
+                            <publisher>Österr. Bundesverl.</publisher>
+                            <date>1997</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Kletečka1992" corresp="http://zotero.org/groups/2042149/items/3XLCVC8A">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-215-11172-1</idno>
+                        <editor>
+                            <forename>Thomas</forename>
+                            <surname>Kletečka</surname>
+                        </editor>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 5, Bd. 7</biblScope>
+                            <publisher>Österr. Bundesverl.</publisher>
+                            <date>1992</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Malfèr1989" corresp="http://zotero.org/groups/2042149/items/U5ZGK28G">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-215-07333-1</idno>
+                        <editor>
+                            <forename>Stefan</forename>
+                            <surname>Malfèr</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 5, Bd. 5</biblScope>
+                            <publisher>Österr. Bundesverl.</publisher>
+                            <date>1989</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Heindl1984" corresp="http://zotero.org/groups/2042149/items/MJJQJNNJ">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-215-05159-1</idno>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <editor>
+                            <forename>Gerald</forename>
+                            <surname>Stourzh</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 3, 3</biblScope>
+                            <publisher>Österr. Bundesverl.</publisher>
+                            <date>1984</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Malfèr2014" corresp="http://zotero.org/groups/2042149/items/C7JKHFUH">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">978-3-7001-7561-2</idno>
+                        <editor>
+                            <forename>Stefan</forename>
+                            <surname>Malfèr</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 3, Bd. 6</biblScope>
+                            <publisher>Verl. der Österreichischen Akademie der
+                                Wissenschaften</publisher>
+                            <date>2014</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Kletečka2006" corresp="http://zotero.org/groups/2042149/items/29XQZL5I">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">978-3-209-05464-7</idno>
+                        <editor>
+                            <forename>Thomas</forename>
+                            <surname>Kletečka</surname>
+                        </editor>
+                        <editor>
+                            <forename>Stefan</forename>
+                            <surname>Malfèr</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 2, Bd. 3</biblScope>
+                            <publisher>öbvhpt</publisher>
+                            <date>2006</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Malfèr1994" corresp="http://zotero.org/groups/2042149/items/PMR9NTSE">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-215-11556-5</idno>
+                        <editor>
+                            <forename>Stefan</forename>
+                            <surname>Malfèr</surname>
+                        </editor>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 5, Bd. 8</biblScope>
+                            <publisher>Österr. Bundesverl.</publisher>
+                            <date>1994</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Kletečka1989" corresp="http://zotero.org/groups/2042149/items/KMU9RQAW">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-215-07141-X</idno>
+                        <editor>
+                            <forename>Thomas</forename>
+                            <surname>Kletečka</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 5, Bd. 6</biblScope>
+                            <publisher>Österr. Bundesverl.</publisher>
+                            <date>1989</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Malfèr1981" corresp="http://zotero.org/groups/2042149/items/ESR3K8Q9">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-215-04335-1</idno>
+                        <editor>
+                            <forename>Stefan</forename>
+                            <surname>Malfèr</surname>
+                        </editor>
+                        <editor>
+                            <forename>Gerald</forename>
+                            <surname>Stourzh</surname>
+                        </editor>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 5, Bd. 2</biblScope>
+                            <publisher>Österr. Bundesverl.</publisher>
+                            <date>1981</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Heindl1987" corresp="http://zotero.org/groups/2042149/items/CES6YBBX">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-215-06767-6</idno>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 3, Bd. 4</biblScope>
+                            <publisher>Österr. Bundesverl.</publisher>
+                            <date>1987</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Kletecka2013" corresp="http://zotero.org/groups/2042149/items/79PU89PA">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">978-3-7001-7242-0</idno>
+                        <editor>
+                            <forename>Thomas</forename>
+                            <surname>Kletecka</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <editor>
+                            <forename>Stefan</forename>
+                            <surname>Malfèr</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 2, Bd. 5</biblScope>
+                            <publisher>Verl. der Österreichischen Akademie der
+                                Wissenschaften</publisher>
+                            <date>2013</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Malfèr1985" corresp="http://zotero.org/groups/2042149/items/8N52N2V8">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">3-215-05988-6</idno>
+                        <editor>
+                            <forename>Stefan</forename>
+                            <surname>Malfèr</surname>
+                        </editor>
+                        <editor>
+                            <forename>Gerald</forename>
+                            <surname>Stourzh</surname>
+                        </editor>
+                        <editor>
+                            <forename>Waltraud</forename>
+                            <surname>Heindl</surname>
+                        </editor>
+                        <editor>
+                            <forename>Helmut</forename>
+                            <surname>Rumpler</surname>
+                        </editor>
+                        <imprint>
+                            <pubPlace>Wien</pubPlace>
+                            <biblScope unit="volume">Ser. 1, Abt. 5, Bd. 3</biblScope>
+                            <publisher>Österr. Bundesverl.</publisher>
+                            <date>1985</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Schmied-Kowarzik2011" corresp="http://zotero.org/groups/2042149/items/G3S6PZWE">
+                    <monogr>
+                        <title level="m">Die Ministerratsprotokolle Österreichs und der
+                            Österreichisch-Ungarischen Monarchie, 1848 - 1918</title>
+                        <idno type="ISBN">978-963-05-8872-0</idno>
+                        <editor>
+                            <forename>Anatol</forename>
+                            <surname>Schmied-Kowarzik</surname>
+                        </editor>
+                        <editor>
+                            <forename>Éva</forename>
+                            <surname>Somogyi</surname>
+                        </editor>
+                        <edition>1. Aufl.</edition>
+                        <imprint>
+                            <pubPlace>Budapest</pubPlace>
+                            <biblScope unit="volume">Ser. 2, Bd. 6</biblScope>
+                            <publisher>Akadémiai Kiadó</publisher>
+                            <date>2011</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>
