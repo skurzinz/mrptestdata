@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ministerratsprotokolle</title>
+            <author>Kurz, Stephan</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2019-09-09</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <date>2019-09-16T11:30:30Z</date>
+               <name>Kurz, Stephan</name>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="a01-b01-z">
+            <head>
+               <title type="num">Nr. </title>
+               <title type="descr">Ministerrat, Wien, 25. Mai 1868</title>
+            </head>
+            <div type="regest">
+               <choice>Protokoll fehlt; zu [I.] RS. der Ansprache des Kaisers an den Ministerrat (Kanzleischrift) in<!--has to be determined manually--></choice>
+               <bibl>Hhsta</bibl>
+               <bib>., Kab. Kanzlei, Direktionsakten, Fasz. 5/1868;</bib>
+               <choice>Wortlaut und Datum der Ah. Entschließung<!--has to be determined manually--></choice>
+               <bibl>Hhsta</bibl>
+               <bib>., Kab. Kanzlei, Protokoll 1868.</bib>
+               <list type="agenda">
+                  <item>
+                     <label>
+                        <num n="0">[I.] Sanktionierung der drei konfessionellen Gesetze</num>. </label>
+                     <ref target="#top_01_01__0"/>
+                  </item>
+               </list>
+            </div>
+            <div type="protocol">
+               <idno type="KZ">1374</idno>
+               <idno type="MRZ">63</idno>
+               <seg type="emperorsapproval">Ah. E. Ich habe den Inhalt dieses Protokolls zur Kenntnis genommen. Wien, 14. Juni 1868. [Franz Joseph].</seg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

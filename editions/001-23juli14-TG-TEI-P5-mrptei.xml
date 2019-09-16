@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <author>Matthias</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2015-05-18</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>unknown</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+               <label>DOCX to TEI</label>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <date>2019-09-16T09:59:13Z</date>
+               <name>Matthias</name>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="a01-b01-z">
+            <head>
+               <title type="num">Nr. </title>
+               <title type="descr">Ministerrat, Wien, 23. Juli 1914</title>
+            </head>
+            <div type="regest">
+               <list type="agenda">
+                  <item>
+                     <label>
+                        <num n="1">I</num>. </label>
+                     <ref target="#top_01_01__1">Mitteilungen über die politische Lage. </ref>
+                  </item>
+               </list>
+               <list type="agenda">
+                  <item>
+                     <label>
+                        <num n="2">II</num>. </label>
+                     <ref target="#top_01_01__2">Verwendung des Landsturmes im Falle einer Mobilisierung. </ref>
+                  </item>
+               </list>
+               <list type="agenda">
+                  <item>
+                     <label>
+                        <num n="3">III</num>. </label>
+                     <ref target="#top_01_01__3">Schließung der</ref>
+                  </item>
+                  <item>
+                     <label>
+                        <num n="21">XXI</num>. </label>
+                     <ref target="#top_01_01__21">Session des Reichsrates; Einstellung der Sitzungen des Permanenzausschusses des Abgeordnetenhauses für Sozialversicherung; Schließung der Landtage von Dalmatien, Krain, Görz, Mähren, Oberösterreich, Niederösterreich, Schlesien und Steiermark und Vertagung der permanenten Landtagsausschüsse. </ref>
+                  </item>
+               </list>
+               <list type="agenda">
+                  <item>
+                     <label>
+                        <num n="4">IV</num>. </label>
+                     <ref target="#top_01_01__4">Gesetzliche und administrative Maßnahmen im Falle einer Mobilisierung. </ref>
+                  </item>
+               </list>
+               <list type="agenda">
+                  <item>
+                     <label>
+                        <num n="5">V</num>. </label>
+                     <ref target="#top_01_01__5">Administrative Vorkehrungen auf der Basis des Kriegsleistungsgesetzes und interne administrative Vorbereitungen für den Fall einer Mobilisierung. </ref>
+                  </item>
+               </list>
+            </div>
+            <div type="protocol">
+               <idno type="KZ">46</idno>
+               <idno type="MRZ">30</idno>
+               <head>Protokoll des zu Wien am 23. Juli 1914 abgehaltenen Ministerrates unter dem Vorsitze Sr. Exzellenz des Herrn Ministerpräsidenten Grafen Stürgkh.</head>
+               <div type="agenda_item" xml:id="top_01_01__1">
+                  <head><label>
+                        <num>I </num>
+                     </label>Mitteilungen über die politische Lage</head>
+                  <p>I. Der <rs type="person" subtype="talking-minister">
+                        <hi rend="#letterspaced">Ministerpräsident</hi>
+                     </rs> bemerkt einleitend, er habe sich unter außerordentlichen Verhältnissen veranlasst gesehen, den Ministerrat einzuberufen. Die aus Anlass des fluchwürdigen Attentates vom 28. Juni geführten Untersuchungen hätten in unwiderleglicher Weise dargetan, dass in Bosnien und der Hercegovina nicht nur ein weitverzweigtes Netz großserbischer Propaganda bestehe, sondern dass diese Bewegung von Belgrad aus genährt werde und dass damit auch Persönlichkeiten des Königreiches Serbien in höherer offizieller Stellung unleugbar in Verbindung stehen<note type="footnote" n="1">
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Mit den Untersuchungen sind wohl die Ergebnisse der Ermittlungen zum Attentat auf den Thronfolger </hi>
+                        <ref target="http://d-nb.info/gnd/1147500363">
+                           <hi rend="EditorischerEingriff">Franz Ferdinand</hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve"> am 28. 6. 1914 in </hi>
+                        <ref target="http://sws.geonames.org/3191281/">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Sarajevo </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff">gemeint, insbesondere Aussagen der Attentäter [[</hi>
+                        <ref target="http://d-nb.info/gnd/123563895">Gavrilo</ref>
+                        <ref target="http://d-nb.info/gnd/123563895">_</ref>
+                        <ref target="http://d-nb.info/gnd/123563895">Princip</ref>
+                        <ref target="http://d-nb.info/gnd/123563895" xml:space="preserve"> </ref>
+                        <ref target="http://d-nb.info/gnd/12355733X">Nedeljko_Čabrinović</ref>
+                        <hi rend="EditorischerEingriff">]] über die Herkunft ihrer Waffen. Diese Ergebnisse sind in Abschrift und auf Deutsch übersetzt vorhanden:</hi>
+                        <hi rend="Kapitälchen">Hhsta</hi>
+                        <hi rend="Book_Title" xml:space="preserve">., Habsburgisch-Lothringische Hausarchive, Nachlass Franz Ferdinand, Kt. 167, VII. Prozeß in Sarajevo. Übersetzung der Prozessakten aus der Strafverhandlung des Kreisgerichtes Sarajevo wider Gavrilo Prinzip und Genossen wegen der Verbrechen des Mordes und Hochverrats, </hi>
+                        <hi rend="color(4F81BD)" xml:space="preserve">Untersuchungsprotokolle der Verhöre Gavrilo Princips v. 28. 6. – 4. 8. 1914 und Nedeljko Čabrinović‘ v. 28.6.– 15. 8. 1914, </hi>
+                        <hi rend="Book_Title">99–192</hi>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Erkenntnisse bezüglich der Hintergründe des Attentats wurden laufend in Telegrammen des Landeschefs von Bosnien und Herzegowina, </hi>
+                        <ref target="http://d-nb.info/gnd/119044749">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Oskar Potiorek </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">aus </hi>
+                        <ref target="http://sws.geonames.org/3191281/">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Sarajewo </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">und vom österreichisch-ungarischen Gesandten </hi>
+                        <ref target="http://d-nb.info/gnd/101847173">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Wladimir v. Giesl </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">aus </hi>
+                        <ref target="http://sws.geonames.org/6290252/">
+                           <hi rend="EditorischerEingriff">Belgrad</hi>
+                           <hi rend="editorischereingriff" xml:space="preserve"> </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">nach Wien gemeldet. </hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Österreich-Ungarns Außenpolitik, </hi>
+                        <hi rend="Book_Title">Bd. 8, 208ff.</hi>
+                     </note>. Was das Faktum vom 28. Juni selbst anbelangt, so sei das Attentat zwar, wie bekannt, durch Angehörige Bosniens und der Hercegovinav verübt, der Plan aber in Belgrad ausgeheckt und von dort aus in die Wege geleitet worden und es seien offizielle serbische Persönlichkeiten unter den Urhebern und Förderern jenes Verbrechens gewesen. Diese Sachlage nötige zu einer ernsten Auseinandersetzung mit dem Königreiche Serbien, und zu diesem Zwecke sei am heutigen Tage ein bedeutungsvoller Schritt des auswärtigen Amtes bei der serbischen Regierung unternommen worden<note type="footnote" n="2">
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Es handelt sich um das auch als Demarche bekannte Ultimatum Österreich-Ungarns an Serbien. Der Entwurf des Textes der am 23. 7. 1914 an die serbische Regierung zu übergebenden Note befindet sich in deutscher Übersetzung in einem Schreiben </hi>
+                        <ref target="http://https://mpr.acdh.oeaw.ac.at/apis/api2/entity/3231/">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Berchtolds </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">an </hi>
+                        <ref target="http://d-nb.info/gnd/101847173">
+                           <hi rend="EditorischerEingriff">Giesl</hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">, </hi>
+                        <hi rend="Kapitälchen">Hhsta</hi>
+                        <hi rend="Book_Title">., MdÄ., Politisches Archiv, PA. I 811 / 1914</hi>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">. In einem am 23. 7. 1914 um 19 Uhr in </hi>
+                        <ref target="http://sws.geonames.org/783920/">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Semlin/Zemun </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">aufgegebenen verschlüsselten Telegramm, das in Wien um 22.30 Uhr eintraf, meldete </hi>
+                        <ref target="http://d-nb.info/gnd/101847173">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Giesl </hi>
+                        </ref>
+                        <hi rend="Kapitälchen">Österreich-Ungarns Außenpolitik</hi>
+                        <hi rend="Book_Title">, Bd. 8, 595.</hi>
+                     </note>. Dieser Schritt habe den Zweck, die genannte Regierung zur feierlichen Übernahme ganz konkreter Leistungen und Verbindlichkeiten zu veranlassen, die die volle Gewähr für das Aufhören der von Belgrad aus gegen die Integrität der Monarchie gerichteten Aktion verbürgen. Der serbischen Regierung sei eine 48-stündige Frist für die Annahme oder Ablehnung unserer Forderungen gegeben. Diplomatische Auseinandersetzungen seien nach der Sachlage und nach der Konstruktion der österreichisch-ungarischen Note ausgeschlossen. Serbien werde eine bündige Antwort zu geben haben. Erfolgt letztere in der gegebenen Frist überhaupt nicht oder nicht in befriedigender Weise, so erscheine die Angelegenheit vom diplomatischen Standpunkte aus erledigt und ihre weitere Austragung würde auf militärischem Wege statthaben. Welchen Lauf die Dinge weiterhin nehmen würden, hänge von den Entschließungen der serbischen Regierung ab<note type="footnote" n="3">
+                        <hi rend="EditorischerEingriff">Fortsetzung</hi>
+                     </note>. Es habe sich aber bereits jetzt die bedingungsweise Notwendigkeit ergeben, für den Fall des Versagens der diplomatischen Mittel militärische Vorbereitungen zu treffen und zu diesem Zwecke sei sub conditione ein Ah. Mobilisierungsbefehl erbeten worden<note type="footnote" n="4">
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Die Vorträge </hi>
+                        <ref target="http://https://mpr.acdh.oeaw.ac.at/apis/api2/entity/3232/">
+                           <hi rend="EditorischerEingriff">Krobathins</hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">, Georgis und </hi>
+                        <ref target="http://d-nb.info/gnd/130173401">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Hazais </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">v. 21. 7. 1914 resolvierte </hi>
+                        <ref target="https://test.at1848">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Franz Josef </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">am 25. 7. 1914, womit er die </hi>
+                        <hi rend="EditorischerEingriff" xml:space="preserve"> anordnete</hi>
+                        <hi rend="Kapitälchen">Ka</hi>
+                        <hi rend="Book_Title">., MKSM., Ktn. 1140, Fasz. 69-6/11.</hi>
+                     </note>. Der Ministerrat nimmt diese Mitteilungen zur Kenntnis.</p>
+                  <p>I. Der <rs type="person" subtype="talking-minister">
+                        <hi rend="#letterspaced">Ministerpräsident</hi>
+                     </rs> bemerkt einleitend, er habe sich unter außerordentlichen Verhältnissen veranlasst gesehen, den Ministerrat einzuberufen. Die aus Anlass des fluchwürdigen Attentates vom 28. Juni geführten Untersuchungen hätten in unwiderleglicher Weise dargetan, dass in Bosnien und der Hercegovina nicht nur ein weitverzweigtes Netz großserbischer Propaganda bestehe, sondern dass diese Bewegung von Belgrad aus genährt werde und dass damit auch Persönlichkeiten des Königreiches Serbien in höherer offizieller Stellung unleugbar in Verbindung stehen<note type="footnote" n="1">
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Mit den Untersuchungen sind wohl die Ergebnisse der Ermittlungen zum Attentat auf den Thronfolger </hi>
+                        <ref target="http://d-nb.info/gnd/1147500363">
+                           <hi rend="EditorischerEingriff">Franz Ferdinand</hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve"> am 28. 6. 1914 in </hi>
+                        <ref target="http://sws.geonames.org/3191281/">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Sarajevo </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff">gemeint, insbesondere Aussagen der Attentäter [[</hi>
+                        <ref target="http://d-nb.info/gnd/123563895">Gavrilo</ref>
+                        <ref target="http://d-nb.info/gnd/123563895">_</ref>
+                        <ref target="http://d-nb.info/gnd/123563895">Princip</ref>
+                        <ref target="http://d-nb.info/gnd/123563895" xml:space="preserve"> </ref>
+                        <ref target="http://d-nb.info/gnd/12355733X">Nedeljko_Čabrinović</ref>
+                        <hi rend="EditorischerEingriff">]] über die Herkunft ihrer Waffen. Diese Ergebnisse sind in Abschrift und auf Deutsch übersetzt vorhanden:</hi>
+                        <hi rend="Kapitälchen">Hhsta</hi>
+                        <hi rend="Book_Title" xml:space="preserve">., Habsburgisch-Lothringische Hausarchive, Nachlass Franz Ferdinand, Kt. 167, VII. Prozeß in Sarajevo. Übersetzung der Prozessakten aus der Strafverhandlung des Kreisgerichtes Sarajevo wider Gavrilo Prinzip und Genossen wegen der Verbrechen des Mordes und Hochverrats, </hi>
+                        <hi rend="color(4F81BD)" xml:space="preserve">Untersuchungsprotokolle der Verhöre Gavrilo Princips v. 28. 6. – 4. 8. 1914 und Nedeljko Čabrinović‘ v. 28.6.– 15. 8. 1914, </hi>
+                        <hi rend="Book_Title">99–192</hi>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Erkenntnisse bezüglich der Hintergründe des Attentats wurden laufend in Telegrammen des Landeschefs von Bosnien und Herzegowina, </hi>
+                        <ref target="http://d-nb.info/gnd/119044749">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Oskar Potiorek </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">aus </hi>
+                        <ref target="http://sws.geonames.org/3191281/">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Sarajewo </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">und vom österreichisch-ungarischen Gesandten </hi>
+                        <ref target="http://d-nb.info/gnd/101847173">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Wladimir v. Giesl </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">aus </hi>
+                        <ref target="http://sws.geonames.org/6290252/">
+                           <hi rend="EditorischerEingriff">Belgrad</hi>
+                           <hi rend="editorischereingriff" xml:space="preserve"> </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">nach Wien gemeldet. </hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Österreich-Ungarns Außenpolitik, </hi>
+                        <hi rend="Book_Title">Bd. 8, 208ff.</hi>
+                     </note>. Was das Faktum vom 28. Juni selbst anbelangt, so sei das Attentat zwar, wie bekannt, durch Angehörige Bosniens und der Hercegovinav verübt, der Plan aber in Belgrad ausgeheckt und von dort aus in die Wege geleitet worden und es seien offizielle serbische Persönlichkeiten unter den Urhebern und Förderern jenes Verbrechens gewesen. Diese Sachlage nötige zu einer ernsten Auseinandersetzung mit dem Königreiche Serbien, und zu diesem Zwecke sei am heutigen Tage ein bedeutungsvoller Schritt des auswärtigen Amtes bei der serbischen Regierung unternommen worden<note type="footnote" n="2">
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Es handelt sich um das auch als Demarche bekannte Ultimatum Österreich-Ungarns an Serbien. Der Entwurf des Textes der am 23. 7. 1914 an die serbische Regierung zu übergebenden Note befindet sich in deutscher Übersetzung in einem Schreiben </hi>
+                        <ref target="http://https://mpr.acdh.oeaw.ac.at/apis/api2/entity/3231/">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Berchtolds </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">an </hi>
+                        <ref target="http://d-nb.info/gnd/101847173">
+                           <hi rend="EditorischerEingriff">Giesl</hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">, </hi>
+                        <hi rend="Kapitälchen">Hhsta</hi>
+                        <hi rend="Book_Title">., MdÄ., Politisches Archiv, PA. I 811 / 1914</hi>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">. In einem am 23. 7. 1914 um 19 Uhr in </hi>
+                        <ref target="http://sws.geonames.org/783920/">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Semlin/Zemun </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">aufgegebenen verschlüsselten Telegramm, das in Wien um 22.30 Uhr eintraf, meldete </hi>
+                        <ref target="http://d-nb.info/gnd/101847173">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Giesl </hi>
+                        </ref>
+                        <hi rend="Kapitälchen">Österreich-Ungarns Außenpolitik</hi>
+                        <hi rend="Book_Title">, Bd. 8, 595.</hi>
+                     </note>. Dieser Schritt habe den Zweck, die genannte Regierung zur feierlichen Übernahme ganz konkreter Leistungen und Verbindlichkeiten zu veranlassen, die die volle Gewähr für das Aufhören der von Belgrad aus gegen die Integrität der Monarchie gerichteten Aktion verbürgen. Der serbischen Regierung sei eine 48-stündige Frist für die Annahme oder Ablehnung unserer Forderungen gegeben. Diplomatische Auseinandersetzungen seien nach der Sachlage und nach der Konstruktion der österreichisch-ungarischen Note ausgeschlossen. Serbien werde eine bündige Antwort zu geben haben. Erfolgt letztere in der gegebenen Frist überhaupt nicht oder nicht in befriedigender Weise, so erscheine die Angelegenheit vom diplomatischen Standpunkte aus erledigt und ihre weitere Austragung würde auf militärischem Wege statthaben. Welchen Lauf die Dinge weiterhin nehmen würden, hänge von den Entschließungen der serbischen Regierung ab<note type="footnote" n="3">
+                        <hi rend="EditorischerEingriff">Fortsetzung</hi>
+                     </note>. Es habe sich aber bereits jetzt die bedingungsweise Notwendigkeit ergeben, für den Fall des Versagens der diplomatischen Mittel militärische Vorbereitungen zu treffen und zu diesem Zwecke sei sub conditione ein Ah. Mobilisierungsbefehl erbeten worden<note type="footnote" n="4">
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Die Vorträge </hi>
+                        <ref target="http://https://mpr.acdh.oeaw.ac.at/apis/api2/entity/3232/">
+                           <hi rend="EditorischerEingriff">Krobathins</hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">, Georgis und </hi>
+                        <ref target="http://d-nb.info/gnd/130173401">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Hazais </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">v. 21. 7. 1914 resolvierte </hi>
+                        <ref target="https://test.at1848">
+                           <hi rend="EditorischerEingriff" xml:space="preserve">Franz Josef </hi>
+                        </ref>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">am 25. 7. 1914, womit er die </hi>
+                        <hi rend="EditorischerEingriff" xml:space="preserve"> anordnete</hi>
+                        <hi rend="Kapitälchen">Ka</hi>
+                        <hi rend="Book_Title">., MKSM., Ktn. 1140, Fasz. 69-6/11.</hi>
+                     </note>. Der Ministerrat nimmt diese Mitteilungen zur Kenntnis.</p>
+               </div>
+               <div type="agenda_item" xml:id="top_01_01__2">
+                  <head><label>
+                        <num>II </num>
+                     </label>Verwendung des Landsturmes im Falle einer Mobilisierung</head>
+                  <p>II. Der Ministerpräsident teilt mit, dass im Zusammenhange mit der bedingungsweisen Erwirkung des Ah. Mobilisierungsbefehles auch Ah. Anordnungen hinsichtlich des Landsturmes in gleich bedingter Weise zu erwirken waren. Der Minister für Landesverteidigung habe daher konditionell die Ah. Genehmigung dafür erbeten, dass der Landsturm in den im Reichsrate vertretenen Königreichen und Ländern in jenem Umfange, als es die Interessen der Landesverteidigung erfordern, und nach Maßgabe des unumgänglichen Bedarfes aufgeboten und die ausnahmsweise Verwendung des Landsturmes außerhalb des Gesamtumfanges der im Reichsrate vertretenen Königreiche und Länder angeordnet werde<note type="footnote" n="1">
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Auf Vortrag Georgis v. 26. 7. 1914 </hi>
+                        <hi rend="EditorischerEingriff" xml:space="preserve"> wurde mit Ah. E. v. 27. 7. 1914 die entsprechende Genehmigung erteilt.</hi>
+                     </note>. Die Voraussetzungen für die bedingungsweise Aufbietung des Landsturmes seien durch den möglichen Fall einer kriegerischen Bedrohung, die Notwendigkeit der eventuellen Verwendung des Landsturmes außerhalb des Gebietes der Reichsratsländer durch die maßgebenden militärischen Verhältnisse gegeben. In letzterer Hinsicht bestehe auch Gefahr im Verzuge, so dass die bezüglichen Anordnungen von Sr. Majestät unter Verantwortung der Regierung gegen nachträgliche Mitteilung an den Reichsrat zur genehmigenden Kenntnisnahme, also ohne die im Paragraph 5 des Landsturmgesetzes<note type="footnote" n="2">
+                        <hi rend="Kapitälchen">Rgbl</hi>
+                        <hi rend="Book_Title">. Nr. 90/1886.</hi>
+                     </note> vorgesehene spezielle Ermächtigung durch ein Reichsgesetz erfolgen könne. In parenthesi sei zu bemerken, dass die gekennzeichnete Rechtslage sich nicht auf Tirol beziehe<note type="footnote" n="3">
+                        <hi rend="Kapitälchen">Rgbl</hi>
+                        <hi rend="Book_Title">. Nr. 90/1886, § 5</hi>
+                        <hi rend="Kapitälchen">Lgbl</hi>
+                        <hi rend="Book_Title">. Tirol und Vorarlberg Nr. 16/1895 u. 15/1908</hi>
+                        <hi rend="EditorischerEingriff">Siehe auch</hi>
+                     </note>, wo etwas andere gesetzliche Voraussetzungen bestehen. Der Ministerpräsident habe in Anbetracht der besonderen Dringlichkeit und der Unmöglichkeit, den Ministerrat rechtzeitig einzuberufen, vorläufig die Zustimmung zu jenen au. Unterbreitungen des Ministers für Landesverteidigung gegeben und erbitte nachträglich die Genehmigung des Ministerrates. Der Ministerrat erteilt diese Zustimmung.</p>
+                  <p>II. Der Ministerpräsident teilt mit, dass im Zusammenhange mit der bedingungsweisen Erwirkung des Ah. Mobilisierungsbefehles auch Ah. Anordnungen hinsichtlich des Landsturmes in gleich bedingter Weise zu erwirken waren. Der Minister für Landesverteidigung habe daher konditionell die Ah. Genehmigung dafür erbeten, dass der Landsturm in den im Reichsrate vertretenen Königreichen und Ländern in jenem Umfange, als es die Interessen der Landesverteidigung erfordern, und nach Maßgabe des unumgänglichen Bedarfes aufgeboten und die ausnahmsweise Verwendung des Landsturmes außerhalb des Gesamtumfanges der im Reichsrate vertretenen Königreiche und Länder angeordnet werde<note type="footnote" n="1">
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Auf Vortrag Georgis v. 26. 7. 1914 </hi>
+                        <hi rend="EditorischerEingriff" xml:space="preserve"> wurde mit Ah. E. v. 27. 7. 1914 die entsprechende Genehmigung erteilt.</hi>
+                     </note>. Die Voraussetzungen für die bedingungsweise Aufbietung des Landsturmes seien durch den möglichen Fall einer kriegerischen Bedrohung, die Notwendigkeit der eventuellen Verwendung des Landsturmes außerhalb des Gebietes der Reichsratsländer durch die maßgebenden militärischen Verhältnisse gegeben. In letzterer Hinsicht bestehe auch Gefahr im Verzuge, so dass die bezüglichen Anordnungen von Sr. Majestät unter Verantwortung der Regierung gegen nachträgliche Mitteilung an den Reichsrat zur genehmigenden Kenntnisnahme, also ohne die im Paragraph 5 des Landsturmgesetzes<note type="footnote" n="2">
+                        <hi rend="Kapitälchen">Rgbl</hi>
+                        <hi rend="Book_Title">. Nr. 90/1886.</hi>
+                     </note> vorgesehene spezielle Ermächtigung durch ein Reichsgesetz erfolgen könne. In parenthesi sei zu bemerken, dass die gekennzeichnete Rechtslage sich nicht auf Tirol beziehe<note type="footnote" n="3">
+                        <hi rend="Kapitälchen">Rgbl</hi>
+                        <hi rend="Book_Title">. Nr. 90/1886, § 5</hi>
+                        <hi rend="Kapitälchen">Lgbl</hi>
+                        <hi rend="Book_Title">. Tirol und Vorarlberg Nr. 16/1895 u. 15/1908</hi>
+                        <hi rend="EditorischerEingriff">Siehe auch</hi>
+                     </note>, wo etwas andere gesetzliche Voraussetzungen bestehen. Der Ministerpräsident habe in Anbetracht der besonderen Dringlichkeit und der Unmöglichkeit, den Ministerrat rechtzeitig einzuberufen, vorläufig die Zustimmung zu jenen au. Unterbreitungen des Ministers für Landesverteidigung gegeben und erbitte nachträglich die Genehmigung des Ministerrates. Der Ministerrat erteilt diese Zustimmung.</p>
+               </div>
+               <div type="agenda_item" xml:id="top_01_01__3">
+                  <head><label>
+                        <num>III </num>
+                     </label></head>
+                  <p>III. Der Ministerpräsident hebt hervor, dass der Reichsrat dermalen nur vertagt sei, so dass die Immunität der Abgeordneten fortbestehe<note type="footnote" n="1">
+                        <hi rend="EditorischerEingriff">Der Reichsrat war am 16. 3. 1914 von Stürgkh vertagt worden. Siehe</hi>
+                        <hi rend="EditorischerEingriff">Dieser Zustand sollte drei Jahre andauern. Zur Vorgeschichte siehe</hi>
+                        <hi rend="Kapitälchen">Rumpler</hi>
+                        <hi rend="Book_Title">, Parlament und Regierung, 885–892</hi>
+                     </note>. Für den Fall einer Mobilisierung, wo es Aufgabe der Strafrechtspflege sein würde, allen Erschwerungen der militärischen Maßnahmen durch strenge Handhabung des Gesetzes entgegenzutreten, könnte die privilegierte Stellung der Reichsratsmitglieder unter Umständen eine schwere Behemmung bedeuten, weshalb dieses Privilegium durch Schließung der Session außer Kraft zu setzen wäre. Der sprechende Minister erbitte daher die Zustimmung des Ministerrates, an Ah. Stelle die in letzterer Richtung erforderliche Ah. Ermächtigung bedingungsweise zu erbitten.</p>
+                  <p>III. Der Ministerpräsident hebt hervor, dass der Reichsrat dermalen nur vertagt sei, so dass die Immunität der Abgeordneten fortbestehe<note type="footnote" n="1">
+                        <hi rend="EditorischerEingriff">Der Reichsrat war am 16. 3. 1914 von Stürgkh vertagt worden. Siehe</hi>
+                        <hi rend="EditorischerEingriff">Dieser Zustand sollte drei Jahre andauern. Zur Vorgeschichte siehe</hi>
+                        <hi rend="Kapitälchen">Rumpler</hi>
+                        <hi rend="Book_Title">, Parlament und Regierung, 885–892</hi>
+                     </note>. Für den Fall einer Mobilisierung, wo es Aufgabe der Strafrechtspflege sein würde, allen Erschwerungen der militärischen Maßnahmen durch strenge Handhabung des Gesetzes entgegenzutreten, könnte die privilegierte Stellung der Reichsratsmitglieder unter Umständen eine schwere Behemmung bedeuten, weshalb dieses Privilegium durch Schließung der Session außer Kraft zu setzen wäre. Der sprechende Minister erbitte daher die Zustimmung des Ministerrates, an Ah. Stelle die in letzterer Richtung erforderliche Ah. Ermächtigung bedingungsweise zu erbitten.</p>
+               </div>Der <rs type="person" subtype="talking-minister">
+                  <hi rend="#letterspaced">Minister des Innern</hi>
+               </rs> bemerkt, dass in diesem Zusammenhange auch vom Standpunkte seines Ressorts bestimmte au. Unterbreitungen zu machen sein werden. Einerseits handle es sich in dieser Beziehung um den Permanenzausschuss des Abgeordnetenhauses für Sozialversicherung<note type="footnote" n="1">
+                  <hi rend="EditorischerEingriff">Der Permanenzausschuss für Sozialversicherung des Abgeordnetenhauses hatte sich am 22. 1. 1909 konstituiert.</hi>
+                  <hi rend="Kapitälchen" xml:space="preserve">Stenographische Protokolle, 18. Session. </hi>
+                  <hi rend="Book_Title">Bd. 9, 8423</hi>
+               </note>. Obwohl die Rechtslage keineswegs geklärt sei, müsse mit der Möglichkeit gerechnet werden, dass die Gerichte den Mitgliedern dieses Ausschusses trotz der Schließung der Session, die Immunität zuerkennen würden. Es sei daher notwendig zum mindesten die Ah. Einstellung der Sitzungen dieses Ausschusses zu erbitten, wodurch nach Ansicht des sprechenden Ministers der Fortbestand der Immunität jedenfalls in unzweifelhafter Weise beseitigt, zugleich aber das Hinfälligwerden der bisher geleisteten Ausschussarbeit, welches mit weitergehenden Maßnahmen gegen den Ausschuss verbunden wäre, vermieden werden könnte. Andererseits handle es sich darum, jene acht Landtage [[LT Dalmatien LT Krain LT Görz LT Mähren LT Oberösterreich LT NiederösterreichLT Schlesien LT Steiermark]] (von Dalmatien, Krain, Görz, Mähren, Oberösterreich, Niederösterreich, Schlesien und Steiermark), welche dermalen nur vertagt seien, zu schließen und die aus einzelnen Landtagen auf Grund besonderer Landesgesetze hervorgegangenen Permanenzausschüsse zu vertagen, damit für die Mitglieder der betreffenden Landtage beziehungsweise Ausschüsse die Immunität verlösche. Der sprechende Minister erbitte daher die Zustimmung des Ministerrates, die erforderliche Ah. Ermächtigung zu erwirken. Der Ministerrat erteilt dem Ministerpräsidenten und dem Minister des Innern die erbetene Zustimmung<note type="footnote" n="2">
+                  <hi rend="EditorischerEingriff">Auf Vortrag Stürgkhs v. 23. 7. 1914 wurde mit Ah. E. v. 24. 7. 1914 die Schließung des Reichsrates erlaubt:</hi>
+                  <hi rend="Kapitälchen" xml:space="preserve"> Hhsta</hi>
+                  <hi rend="Book_Title">., Kab. Kanzlei, KZ. 1832/1914</hi>
+                  <hi rend="EditorischerEingriff" xml:space="preserve"> Die Einstellung der Sitzungen des Permanenzausschuss des Abgeordnetenhauses für Sozialversicherung wurde auf Vortrag Heinolds v. 23. 7. 1914 mit Ah. E. v. 24. 7. 1914 verfügt</hi>
+                  <hi rend="Kapitälchen">Hhsta</hi>
+                  <hi rend="Book_Title">., Kab. Kanzlei, KZ. 1833/1914</hi>
+                  <hi rend="EditorischerEingriff" xml:space="preserve"> Die Schließung der acht Landtage und die Vertagung der Ausschüsse wurde auf Vortrag Heinolds v.</hi>
+                  <hi rend="EditorischerEingriff">mit Ah. E. v.</hi>
+                  <hi rend="EditorischerEingriff" xml:space="preserve"> genehmigt</hi>
+                  <hi rend="Kapitälchen">Hhsta</hi>
+                  <hi rend="Book_Title">., Kab. Kanzlei, KZ. 1834/1914</hi>
+               </note>.<div type="agenda_item" xml:id="top_01_01__4">
+                  <head><label>
+                        <num>IV </num>
+                     </label>Gesetzliche und administrative Maßnahmen im Falle einer Mobilisierung</head>
+                  <p>IV. Der <rs type="person" subtype="talking-minister">
+                        <hi rend="#letterspaced">Ministerpräsident</hi>
+                     </rs> führt weiter aus, dass im Falle der Mobilisierung eine Reihe von damit zusammenhängenden Maßnahmen für die im Reichsrate vertretenen Königreiche und Länder teils auf gesetzlichem, teils auf administrativem Wege zu treffen seien. In ersterer Richtung komme von jeher hiefür der Weg des Paragraphen 14 in Betracht<note type="footnote" n="1">
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Gemeint ist § 14, der Notverordnungsparagraph in der so genannten Dezemberverfassung: </hi>
+                        <hi rend="Kapitälchen">Rgbl</hi>
+                        <hi rend="Book_Title">. Nr. 141/1867</hi>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Siehe </hi>
+                        <hi rend="Kapitälchen">Haider</hi>
+                        <hi rend="Book_Title">, Protokolle des Verfassungsausschusses, 87–94</hi>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">. Zur Anwendung dieses Paragraphen, siehe </hi>
+                        <hi rend="Kapitälchen">Hasiba</hi>
+                        <hi rend="Book_Title">, Notverordnungsrecht,</hi>
+                        <hi rend="EditorischerEingriff">insbesondere Seite 149.</hi>
+                     </note>. Er erteile nunmehr dem Minister des Innern, dessen Ressort in den einschlägigen Belangen die führende Rolle einnehme, das Wort. </p>
+                  <p>IV. Der <rs type="person" subtype="talking-minister">
+                        <hi rend="#letterspaced">Ministerpräsident</hi>
+                     </rs> führt weiter aus, dass im Falle der Mobilisierung eine Reihe von damit zusammenhängenden Maßnahmen für die im Reichsrate vertretenen Königreiche und Länder teils auf gesetzlichem, teils auf administrativem Wege zu treffen seien. In ersterer Richtung komme von jeher hiefür der Weg des Paragraphen 14 in Betracht<note type="footnote" n="1">
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Gemeint ist § 14, der Notverordnungsparagraph in der so genannten Dezemberverfassung: </hi>
+                        <hi rend="Kapitälchen">Rgbl</hi>
+                        <hi rend="Book_Title">. Nr. 141/1867</hi>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">Siehe </hi>
+                        <hi rend="Kapitälchen">Haider</hi>
+                        <hi rend="Book_Title">, Protokolle des Verfassungsausschusses, 87–94</hi>
+                        <hi rend="EditorischerEingriff" xml:space="preserve">. Zur Anwendung dieses Paragraphen, siehe </hi>
+                        <hi rend="Kapitälchen">Hasiba</hi>
+                        <hi rend="Book_Title">, Notverordnungsrecht,</hi>
+                        <hi rend="EditorischerEingriff">insbesondere Seite 149.</hi>
+                     </note>. Er erteile nunmehr dem Minister des Innern, dessen Ressort in den einschlägigen Belangen die führende Rolle einnehme, das Wort. </p>
+               </div>Der <rs type="person" subtype="talking-minister">
+                  <hi rend="#letterspaced">Minister des Innern</hi>
+               </rs> legt dar, es handle sich in dieser Beziehung um 17 Verfügungen; diese letzteren seien zum größten Teil bereits in dem geheimen Orientierungsbehelf über Ausnahmsverfügungen für den Kriegsfall vorgesehen.<note type="footnote" n="1">
+                  <hi rend="EditorischerEingriff" xml:space="preserve">Es handelt sich um das geheime Handbuch für den Mobilisierungsfall, das 1906 eingeführt wurde und in allen cisleithanischen Behörden in abgestufter Ausführlichkeit vorlag. Es war auch bekannt als Dienstbuch J-25. Im Juli 1914 konnten die Zeitgenossen die zu erlassenden Verfügungen mit der dritten Auflage des Geheimen Orientierungsbehelfs von 1912 abgleichen. Eine geplante vierte Auflage war nie zustande gekommen, die dafür vorgesehenen Ausnahmeverfügungen traten aber in Kraft. </hi>
+                  <hi rend="EditorischerEingriff" xml:space="preserve"> Siehe auch </hi>
+                  <hi rend="Kapitälchen">Scheer</hi>
+                  <hi rend="Book_Title">, Kontrolle, Leitung und Überwachung, 16, 33</hi>
+                  <hi rend="EditorischerEingriff">.</hi>
+               </note> Alle bezüglichen Entwürfe seien in den letzten Tagen von den beteiligten Ministerien nochmals revidiert und den aktuellen Bedürfnissen angepasst worden. Zum Teil seien es neue Verfügungen, welche sich durch die veränderte Sach- und Rechtslage dermalen als notwendig herausstellen, aber in dem gegenwärtig geltenden Orientierungsbehelfe noch nicht vorgesehen seien. Hierbei kommen in Betracht: Kaiserliche Verordnungen auf Grund des § 14, Verordnungen des Gesamtministeriums, die auf Grund spezieller Ah. Ermächtigung zu erlassen sind, Verordnungen des Gesamtministeriums, für welche eine spezielle Ah. Ermächtigung nicht erforderlich ist und endlich sonstige Ministerialverordnungen. Im Einzelnen seien diese Verfügungen, deren Text dem Protokolle anverwahrt erscheint, folgende<note type="footnote" n="2">
+                  <hi rend="EditorischerEingriff">Die beschlossenen Verordnungen waren auf den so genannten Kriegsfall B (Balkan) abgestimmt und enthielten folgende im Orientierungsbehelf vorgesehene Verordnungen nicht: a-Übertragung von Befugnissen der politischen Verwaltung an den Höchstkommandierenden der zu Kriegsoperationen bestimmten Teile der bewaffneten Macht, e-Beschränkende polizeiliche Anordnungen über das Meldewesen, g-Einschränkungen des Besitzes von Waffen, Munition, Sprengstoff für Kriegsfall R (Russland) und I (Italien), m-Amtsbereiche der Militärgerichte, die zur Ausübung der Strafgerichtsbarkeit über Zivilpersonen berufen sind, s- Missbrauch von Brieftauben, t-Missbrauch von Luftfahrzeugen, w-Ergänzung von v bzw. 17, x-Beschränkung des Seeschiffsverkehrs. Die Verordnungen 4 und 7 waren tatsächlich, wie hier angegeben, neu, also im Orientierungsbehelf nicht enthalten.</hi>
+                  <hi rend="Kapitälchen" xml:space="preserve"> Orientierungsbehelf, </hi>
+                  <hi rend="Book_Title">ivf.</hi>
+               </note>:<note type="variant" n="1">
+                  <hi rend="italic">Die Ausnahmsverfügungen liegen dem Originalprotokoll als Blankovordrucke der Verordnungen bei.</hi>
+               </note>Kaiserliche Verordnung auf Grund des § 14 des Grundgesetzes über die Reichsvertretung, betreffend Übertragung von Befugnissen der politischen Verwaltung an den Höchstkommandierenden der Streitkräfte in Bosnien, Hercegovina und Dalmatien (Beilage 1b des Orientierungsbehelfes).Verordnung des Gesamtministeriums auf Grund Ah. Genehmigung und Beschlusses des Gesamtministeriums, betreffend Suspension staatsgrundgesetzlicher Bestimmungen und zwar der persönlichen Freiheit, des Hausrechtes, des Vereins- uns Versammlungsrechtes, des Briefgeheimnisses und der Pressfreiheit in allen im Reichsrate vertretenen Königreichen und Ländern (Beilage 1c des Orientierungsbehelfes).Verordnung des Gesamtministeriums auf Grund der Suspension staatsgrundgesetzlicher Bestimmungen, betreffend beschränkende polizeiliche Anordnungen über das Passwesen (Beilage 1d des Orientierungsbehelfes).Verordnung des Ministers für Landesverteidigung und des Innern auf Grund des § 17, Absatz 4, Punkt 2 des Wehrgesetzes, betreffend Verhütung von Wehrpflichtverletzungen durch Grenzüberschreitung (neu).Verordnung des Gesamtministeriums auf Grund der Suspension staatsgrundgesetzlicher Bestimmungen, betreffend beschränkende polizeiliche Anordnungen in Bezug auf den Besitz von Waffen, Munitionsgegenständen und Sprengstoffen und den Verkehr mit denselben (Beilage 1f des Orientierungsbehelfes).Kaiserliche Verordnung auf Grund des § 14 des Grundgesetzes über die Reichsvertretung, betreffend Mitwirkung der Gemeinden und öffentlichen Beamten an den Aufgaben der Landesverteidigung und die Bestrafung der Verletzung einer Amtspflicht (Beilage 1h des Orientierungsbehelfes).Kaiserliche Verordnung auf Grund des § 14 des Staatsgrundgesetzes über die Reichsvertretung, betreffend Bestrafung der Störung des öffentlichen Dienstes oder eines öffentlichen Betriebes und der Verletzung einer Lieferungspflicht (neu).Verordnung des Gesamtministeriums auf Grund des § 1 des Gesetzes vom 23. Mai 1873, Nr. 120 RGBl., betreffend Einstellung der Wirksamkeit der Geschwornengerichte (Beilage 1i des Orientierungsbehelfes).Verordnung des Gesamtministeriums auf Grund des § 14 des Gesetzes vom 5. Juli 1912, Nr. 131 RGBl., betreffend Unterstellung von Zivilpersonen, die sich strafbarer Handlungen wider die Kriegsmacht des Staates schuldig machen, unter die Militärstrafgerichtsbarkeit (Beilage 1k/II des Orientierungsbehelfes).Kaiserliche Verordnung auf Grund des § 14 des Grundgesetzes über die Reichsvertretung, betreffend zeitweilige Unterstellung von Zivilpersonen unter die Militärgerichtsbarkeit (Beilage 1l des Orientierungsbehelfes).Kaiserliche Verordnung auf Grund des § 14 des Grundgesetzes über die Reichsvertretung, betreffend Unterstellung der auf die Kriegsartikel nicht beeideten, in aktiver Dienstleistung stehenden Militärpersonen unter die Bestimmungen des II. Teiles des Militärstrafgesetzbuches<note type="footnote" n="1">
+                  <hi rend="Kapitälchen">Rgbl</hi>
+                  <hi rend="Book_Title">. Nr. 19/1855, Zweiter Theil, Seite 95ff.</hi>
+               </note> (Beilage 1n des Orientierungsbehelfes).Verordnung der Ministerien des Innern und der Justiz auf Grund des Artikels IX des Gesetzes vom 17. Dezember 1862, Nr. 8 RGBl. ex 1863, betreffend ausdrückliches Verbot der Veröffentlichung militärischer Nachrichten in Druckschriften (Beilage 1o des Orientierungsbehelfes).Verordnung der Ministerien des Innern und der Justiz im Einvernehmen mit den Ministerien des Finanzen und des Handels auf Grund der Suspension staatsgrundgesetzlicher Bestimmungen, betreffend Anordnung des Verbotes der in Serbien erscheinenden periodischen Druckschriften und der Revision der von dort einlangenden nicht periodischen Druckschriften (Beilage 1p des Orientierungsbehelfes).Verordnung der Ministerien des Handels und des Innern auf Grund der Suspension staatsgrundgesetzlicher Bestimmungen, betreffend Behandlung der Postsendungen (Beilage 1q des Orientierungsbehelfes).Verordnung des Gesamtministeriums auf Grund Ah. Ermächtigung, betreffend Einschränkung und Überwachung des Telegraphen- und Telefonverkehres (Beilage 1r des Orientierungsbehelfes).Verordnung der Ministerien des Innern, der Finanzen, des Handels und des Ackerbaues, betreffend Verbot der Einfuhr mehrerer Artikel (Beilage 1u des Orientierungsbehelfes).<note type="footnote" n="1">
+                  <hi rend="EditorischerEingriff">Beschränkt werden sollte die Einfuhr von Waffen, Munition, Sprengstoffen und Tauben, so wie es im Orientierungsbehelf vorgesehen war,</hi>
+                  <hi rend="Kapitälchen">Rgbl</hi>
+                  <hi rend="Book_Title">. Nr. 160/1914</hi>
+                  <hi rend="Kapitälchen">Orientierungsbehelf</hi>
+                  <hi rend="Book_Title">, 101–108</hi>
+               </note>Verordnung der Ministerien des Innern, der Finanzen, des Handels und des Ackerbaues, betreffend Verbot der Ausfuhr und Durchfuhr mehrerer Artikel (Beilage 1v des Orientierungsbehelfes) <note type="footnote" n="1">
+                  <hi rend="EditorischerEingriff" xml:space="preserve">Beschränkt werden sollte die Einfuhr von Artikeln wie unter 16., sowie weiterer Artikel wie Leder, Baracken und Transportmittel, </hi>
+                  <hi rend="Kapitälchen">Rgbl</hi>
+                  <hi rend="Book_Title">. Nr. 169/1914</hi>
+               </note>.Der Minister des Innern bittet sohin, der Ministerrat möge die Zustimmung erteilen, hinsichtlich der zu erwirkenden kaiserlichen Verordnungen die Ah. Genehmhaltung ihrer bedingsweisen Erlassung zu erwirken, hinsichtlich jener Verordnungen des Gesamtministeriums, welche auf Grund spezieller Ah. Ermächtigung zu erfließen hätten, die bedingungsweise Ah. Ermächtigung einzuholen, sowie gegebenenfalls in den beiden angedeuteten Belangen das weiterhin Erforderliche vorzukehren, die sonstigen Gesamtministerialverordnungen gegebenenfalls zu erlassen, im Übrigen aber die bedingungsweise in Aussicht genommenen Maßnahmen zur Kenntnis nehmen.Der Ministerrat erteilt die erbetene Zustimmung beziehungsweise nimmt die bedingungsweise in Aussicht genommenen Maßnahmen zur Kenntnis<note type="footnote" n="1">
+                  <hi rend="EditorischerEingriff">Die 17 Ausnahmebestimmungen wurden von Heinold mit einem einzigen Vortrag v. 23. 7. 1914 vorgelegt</hi>
+                  <hi rend="EditorischerEingriff">Die Ah. E. erfolgte ebenfalls en bloc am</hi>
+                  <hi rend="Kapitälchen">Hhsta</hi>
+                  <hi rend="Book_Title">., Kab. Kanzlei, KZ. 1850/1914</hi>
+                  <hi rend="EditorischerEingriff" xml:space="preserve">Parallel wurden in Ungarn ebenfalls ähnliche Verordnungen mit Vortrag Tiszas v. 24. 7. 1914 erlassen. Beide Verordnungsbündel wurden mit Datum v. 25. 7. 1914 am Folgetag publiziert. </hi>
+                  <hi rend="Kapitälchen">Hhsta</hi>
+                  <hi rend="Book_Title">., Kab. Kanzlei, KZ. 1851/1914</hi>
+                  <hi rend="Kapitälchen">Rgbl</hi>
+                  <hi rend="Book_Title">. Nr. 153/1914, 2</hi>
+                  <hi rend="Kapitälchen">Rgbl</hi>
+                  <hi rend="Book_Title">. Nr. 158/1914, 3</hi>
+                  <hi rend="Kapitälchen">Rgbl</hi>
+                  <hi rend="Book_Title">. Nr. 159/1914, 4</hi>
+                  <hi rend="Kapitälchen">Rgbl</hi>
+                  <hi rend="Book_Title">. Nr. 166/1914, 5</hi>
+                  <hi rend="Kapitälchen">Rgbl</hi>
+                  <hi rend="Book_Title">. Nr. 160/1914, 6</hi>
+                  <hi rend="Kapitälchen">Rgbl</hi>
+                  <hi rend="Book_Title">. Nr. 154/1914, 7. Nr. 155/1914, 8. Nr. 163/1914, 9. Nr. 164/1914, 10. Nr. 156/1914, 11. Nr. 157/1914, 12. Nr. 165/1914, 13. Nr. 161/1914, 14. Nr. 162/1914, 15. Nr. 167/1914, 16. Nr. 168/1914, 17. Nr. 169/1914</hi>
+               </note>. <div type="agenda_item" xml:id="top_01_01__5">
+                  <head><label>
+                        <num>V </num>
+                     </label>Administrative Vorkehrungen auf der Basis des Kriegsleistungsgesetzes und interne administrative Vorbereitungen für den Fall einer Mobilisierung</head>
+                  <p>V. Der <rs type="person" subtype="talking-minister">
+                        <hi rend="#letterspaced">Ministerpräsident</hi>
+                     </rs> erörtert sohin in allgemeinen Zügen die Notwendigkeit allfälliger weiterer im Orientierungsbehelfe<note type="footnote" n="1">
+                        <hi rend="EditorischerEingriff">Siehe Kommentar zu Punkt IV.</hi>
+                     </note> nicht vorgesehener einschlägiger Maßnahmen, so gewisser administrativer Vorkehrungen auf der Basis des Kriegsleistungsgesetzes<note type="footnote" n="2">
+                        <hi rend="Kapitälchen">Rgbl</hi>
+                        <hi rend="Book_Title">. Nr. 236/1912</hi>
+                        <hi rend="EditorischerEingriff">. Nach diesem Gesetz konnten von Privatpersonen unter bestimmten Umständen und gegen Vergütung Arbeitsdienste verlangt werden und ebenso die Überlassung von Transportmitteln und Tauben, sowie die Einquartierung und Verpflegung von Personen und von Vieh.</hi>
+                     </note> und verschiedener interner administrativer Vorbereitungen. Er richtet in diesem Zusammenhang an die Vertreter der einzelnen Ressorts das Ersuchen, alle Vorbereitungen so zu treffen, dass im Bedarfsfalle diese Verfügungen auf ein kurzes Aviso hin in Kraft treten können, und behält sich vor, für den Fall als aus formalen oder meritorischen Gründen eine Befassung des Ministerrates in der Folge notwendig sein sollte, die Konferenz nach Bedarf einzuberufen. Er nehme in diesem Sinne auch Akt von der ihm bereits bekannten Intention sämtlicher Mitglieder des Kabinetts, bis auf weiteres Wien nicht zu verlassen, was übrigens durch die Sachlage dermalen geboten erscheine.</p>
+                  <p>V. Der <rs type="person" subtype="talking-minister">
+                        <hi rend="#letterspaced">Ministerpräsident</hi>
+                     </rs> erörtert sohin in allgemeinen Zügen die Notwendigkeit allfälliger weiterer im Orientierungsbehelfe<note type="footnote" n="1">
+                        <hi rend="EditorischerEingriff">Siehe Kommentar zu Punkt IV.</hi>
+                     </note> nicht vorgesehener einschlägiger Maßnahmen, so gewisser administrativer Vorkehrungen auf der Basis des Kriegsleistungsgesetzes<note type="footnote" n="2">
+                        <hi rend="Kapitälchen">Rgbl</hi>
+                        <hi rend="Book_Title">. Nr. 236/1912</hi>
+                        <hi rend="EditorischerEingriff">. Nach diesem Gesetz konnten von Privatpersonen unter bestimmten Umständen und gegen Vergütung Arbeitsdienste verlangt werden und ebenso die Überlassung von Transportmitteln und Tauben, sowie die Einquartierung und Verpflegung von Personen und von Vieh.</hi>
+                     </note> und verschiedener interner administrativer Vorbereitungen. Er richtet in diesem Zusammenhang an die Vertreter der einzelnen Ressorts das Ersuchen, alle Vorbereitungen so zu treffen, dass im Bedarfsfalle diese Verfügungen auf ein kurzes Aviso hin in Kraft treten können, und behält sich vor, für den Fall als aus formalen oder meritorischen Gründen eine Befassung des Ministerrates in der Folge notwendig sein sollte, die Konferenz nach Bedarf einzuberufen. Er nehme in diesem Sinne auch Akt von der ihm bereits bekannten Intention sämtlicher Mitglieder des Kabinetts, bis auf weiteres Wien nicht zu verlassen, was übrigens durch die Sachlage dermalen geboten erscheine.</p>
+               </div>Der Ministerrat nimmt diese Mitteilungen zur Kenntnis.<dateline>Wien, am 23. Juli 1914. Stürgkh.</dateline>
+               <seg type="emperorsapproval">Ah. E. Ich habe den Inhalt dieses Protokolles zur Kenntnis genommen. Wien, am 22. September 1914. Franz Joseph.</seg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
