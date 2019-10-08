@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -35,93 +36,102 @@
    </teiHeader>
    <text>
       <body>
-         <div xml:id="a01-b01-zNaN">
+         <div xml:id="a01-b01-z249">
             <head type="document">
-               <title type="num">Nr. NaN</title>
+               <title type="num">Nr. 249</title>
                <title type="descr">Ministerrat, Wien, 7. August 1869</title>
             </head>
             <div type="regest">
+               <p ana="source_documentation">
+                  <hi rend="italic">RS. und bA.; Teilnehmer und Tagesordnung:</hi>
+                  <hi rend="Kapitälchen">Ava.</hi>, Ministerratsprotokolle, Tagesordnungen.</p>
+               <p ana="participant_list">P. Artus; VS. Taaffe; anw. Plener, Potocki, Giskra, Herbst; abw. Hasner, Brestel, Berger.</p>
                <list type="agenda">
                   <item>
                      <label>
                         <num n="1">I</num>. </label>
-                     <ref target="#top_01_01_NaN_1">Auszeichnungsanträge aus Anlass der bevorstehenden Feier des Ah. Geburtsfestes von Seite des Ministerpräsidenten.</ref>
+                     <ref target="#top_01_01_249_1">Auszeichnungsanträge aus Anlass der bevorstehenden Feier des Ah. Geburtsfestes von Seite des Ministerpräsidenten.</ref>
                   </item>
                   <item>
                      <label>
                         <num n="2">II</num>. </label>
-                     <ref target="#top_01_01_NaN_2">Detto im Ressort des Ministeriums des Innern.</ref>
+                     <ref target="#top_01_01_249_2">Detto im Ressort des Ministeriums des Innern.</ref>
                   </item>
                   <item>
                      <label>
                         <num n="3">III</num>. </label>
-                     <ref target="#top_01_01_NaN_3">Detto im Ressort des Ministeriums für Kultus und Unterricht.</ref>
+                     <ref target="#top_01_01_249_3">Detto im Ressort des Ministeriums für Kultus und Unterricht.</ref>
                   </item>
                   <item>
                      <label>
                         <num n="4">IV</num>. </label>
-                     <ref target="#top_01_01_NaN_4">Detto im Handelsministerium.</ref>
+                     <ref target="#top_01_01_249_4">Detto im Handelsministerium.</ref>
                   </item>
                   <item>
                      <label>
                         <num n="5">V</num>. </label>
-                     <ref target="#top_01_01_NaN_5">Einführung von Korrespondenzkarten im Postverkehr.</ref>
+                     <ref target="#top_01_01_249_5">Einführung von Korrespondenzkarten im Postverkehr.</ref>
                   </item>
                   <item>
                      <label>
                         <num n="6">VI</num>. </label>
-                     <ref target="#top_01_01_NaN_6">Abschluss eines Übereinkommens mit dem ungarischen Ministerium in Bezug auf die Statistik und Ausscheidung der statistischen Zentralkommission sowie der Direktion für administrative Statistik aus dem Ressort des Obersten Gerichtshofes mit vorläufiger Unterstellung unter das Handelsministerium.</ref>
+                     <ref target="#top_01_01_249_6">Abschluss eines Übereinkommens mit dem ungarischen Ministerium in Bezug auf die Statistik und Ausscheidung der statistischen Zentralkommission sowie der Direktion für administrative Statistik aus dem Ressort des Obersten Gerichtshofes mit vorläufiger Unterstellung unter das Handelsministerium.</ref>
                   </item>
                   <item>
                      <label>
                         <num n="7">VII</num>. </label>
-                     <ref target="#top_01_01_NaN_7">Vorschlag wegen Ernennung des Hofrates des Obersten Gerichtshofes Ritter von Laminet zum Oberlandesgerichtspräsidenten in Brünn.</ref>
+                     <ref target="#top_01_01_249_7">Vorschlag wegen Ernennung des Hofrates des Obersten Gerichtshofes Ritter von Laminet zum Oberlandesgerichtspräsidenten in Brünn.</ref>
                   </item>
                   <item>
                      <label>
                         <num n="8">VIII</num>. </label>
-                     <ref target="#top_01_01_NaN_8">Vorschlag wegen Ernennung des Landesgerichtspräsidenten Rossi-Sabatini zum Oberlandesgerichtspräsidenten in Zara.</ref>
+                     <ref target="#top_01_01_249_8">Vorschlag wegen Ernennung des Landesgerichtspräsidenten Rossi-Sabatini zum Oberlandesgerichtspräsidenten in Zara.</ref>
                   </item>
                   <item>
                      <label>
                         <num n="9">IX</num>. </label>
-                     <ref target="#top_01_01_NaN_9">Schreiben des Fürsten Sapieha in Bezug auf die Beibehaltung der Stellung als Landmarschall in Galizien.</ref>
+                     <ref target="#top_01_01_249_9">Schreiben des Fürsten Sapieha in Bezug auf die Beibehaltung der Stellung als Landmarschall in Galizien.</ref>
                   </item>
                   <item>
                      <label>
                         <num n="10">X</num>. </label>
-                     <ref target="#top_01_01_NaN_10">Überweisung der Agenden legislativer Natur betreffend die Zusammenlegung und Zerstückung von Grundstücken vom Ministerium des Innern an das Ackerbauministerium.</ref>
+                     <ref target="#top_01_01_249_10">Überweisung der Agenden legislativer Natur betreffend die Zusammenlegung und Zerstückung von Grundstücken vom Ministerium des Innern an das Ackerbauministerium.</ref>
                   </item>
                   <item>
                      <label>
                         <num n="11">XI</num>. </label>
-                     <ref target="#top_01_01_NaN_11">Austausch dreijähriger Hengste für die diesseitigen Hengstendepots.</ref>
+                     <ref target="#top_01_01_249_11">Austausch dreijähriger Hengste für die diesseitigen Hengstendepots.</ref>
                   </item>
                   <item>
                      <label>
                         <num n="12">XII</num>. </label>
-                     <ref target="#top_01_01_NaN_12">Erziehungsbeitrag für den Sohn der Telegrafenleitungsdienerwitwe Saazer. </ref>
+                     <ref target="#top_01_01_249_12">Erziehungsbeitrag für den Sohn der Telegrafenleitungsdienerwitwe Saazer. </ref>
                   </item>
                </list>
             </div>
+            <div type="protocol-head">
+               <label ana="inline-identificators">
+                  <idno type="KZ">2578</idno>
+                  <idno type="MRZ">89</idno>
+               </label>
+               <head>Protokoll des zu Wien am 7. August 1869 abgehaltenen Ministerrates unter dem Vorsitze Sr. Exzellenz des Herrn Ministerpräsidenten Grafen Taaffe.</head>
+            </div>
             <div type="protocol">
-               <div type="agenda_item" xml:id="top_01_01_NaN_0">
-                  <head><label>
-                        <num>[I.] [] 1 </num>
-                     </label></head>
+               <div type="agenda_item" xml:id="top_01_01_249_1">
+                  <head>
+                     <label>
+                        <num n="1">I</num>. </label>Auszeichnungsanträge aus Anlass der bevorstehenden Feier des Ah. Geburtsfestes von Seite des Ministerpräsidenten</head>
                   <p>[I.] [] 1. Kutalek wegen seiner her[] betätigten loyalen Gesinnung, wegen seines angerühmten [] verdienstlichen Wirkens [] Ritterkreuz des Franz-Joseph-Ordens. </p>
                   <p rend="list">2. ebenfalls das Ritterkreuz des Franz-Joseph-Ordens für den Direktor des Karltheaters [Anton Ascher], nachdem sich derselbe in Beziehung [] die Handhabung den Theaterzensurbehörden gegenüber jederzeit in sehr loyaler, entgegenkommender Weise benommen, denselben hinsichtlich versagter Aufführungsbewilligungen zum Zwecke der Reklame niemals Verlegenheiten bereitet, für die Armen viel getan habe, sonst ein ehrenhafter Charakter sei, und nachdem, da mit ihm zu parifizierende Privattheaterunternehmer gegenwärtig nicht vorhanden seien, seine Auszeichnung keinerlei Konsequenzen nach sich ziehen würde.</p>
-                  <p>Die Konferenz erklärt sich mit [] einhellig einverstanden<note type="footnote" n="1">
+                  <p>Die Konferenz erklärt sich mit [] einhellig einverstanden<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Die hier Genannten erhielten auf Vorträge Taaffes v. 10. 8. 1869 (Kutalek), </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>
-                        <hi rend="italic" xml:space="preserve">bzw. v. 11. 8. 1869 (Ascher), </hi>
-                        <hi rend="italic" xml:space="preserve">mit Ah. E. v. 15. 8. 1869 die angesuchten Auszeichnungen. </hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>Kab. Kanzlei, KZ. 2995/18689, <hi rend="italic" xml:space="preserve">bzw. v. 11. 8. 1869 (Ascher), </hi>ebd., KZ. 2993&amp;1869, <hi rend="italic" xml:space="preserve">mit Ah. E. v. 15. 8. 1869 die angesuchten Auszeichnungen. </hi>
                      </note>.</p>
                </div>
-               <div type="agenda_item" xml:id="top_01_01_NaN_2">
-                  <head><label>
-                        <num>II </num>
-                     </label></head>
+               <div type="agenda_item" xml:id="top_01_01_249_2">
+                  <head>
+                     <label>
+                        <num n="2">II</num>. </label>Detto im Ressort des Ministeriums des Innern</head>
                   <p>II. Der Minister des Innern [] die im in seinem Ressort vorliegenden Auszeichnungsanträge.</p>
                   <p>Infolge der diesfälligen Erörterungen vereinigt [] Minister des Innern mit [] Konferenz, dass von seiner Seite zu beantragen wären:</p>
                   <p rend="list">1 . der Statthaltereileiter in [Böhmen] FML. Freiherr von Koller für den Orden der eisernen Krone [I. Klasse], womit sich auch der Reichskriegsminister einverstanden erklärt.</p>
@@ -151,51 +161,42 @@
                   <p rend="list">[] für die Verleihung des Titels und [Charakters] eines Hofrates den Statthaltereirat in Lemberg Moriz Grafen []duricki.</p>
                   <p rend="list">[] die Erhebung []stand den Bankier und Präsidenten der Handelskammer in Brody Nathan Mayer Kalir.</p>
                   <p>Hinsichtlich der schon bei früheren Anlässen zur Sprache gebrachten Frage der Auszeichnung der Mitglieder des Abgeordnetenhauses Freiherr von Eichhoff, Dr. Klier, Wolfrum, Dr. Doubek, Dr. Berger einigte sich die Konferenz in der Ansicht, dass die Auszeichnung von Abgeordneten als solchen mancherlei gegründete Bedenken gegen sich habe, und dass, insoferne es sich um die Anerkennung anderweitigen verdienstlichen Wirkens handle, wie es rücksichtlich des Dr. Doubek der Fall sei, der eventuelle Antrag zu ajournieren wäre, da der gegenwärtige Moment zur Auszeichnung von Reichsratsabgeordneten überhaupt nicht geeignet erscheine. Die ad 22. gemachte Ausnahme rücksichtlich des Abgeordneten Lahner wurde damit motiviert, dass bei dem Umstande, als derselbe sich im Abgeordnetenhause bisher in keiner Weise bemerkbar gemacht habe, seine Auszeichnung eine Anerkennung seiner Tätigkeit im Reichsrate unmöglich aufgefas st werden könne.</p>
-                  <p>Hinsichtlich des vom Statthalter von Dalmatien gestellten Antrages auf Erwirkung des Ordens der eisernen Krone I. Klasse für den [] von Zara Maupas, welchen der Minister des Innern in Übereinstimmung mit der Konferenz dahin zu modifizieren gedächte, dass für den genannten []politen die Verleihung des Großkreuzes des Franz-Joseph-Ordens zu beantragen wäre, wird der Ministerpräsident vorerst Gelegenheiten []fälligen Ah. Intentionen Sr. k. u. k. Majestät einzuholen<note type="footnote" n="1">
-                        <hi rend="italic" xml:space="preserve">Auf Vorträge Giskras v. 11. 8. 1869, </hi>
-                        <hi rend="italic" xml:space="preserve">bzw. v. 15. 8. 1869, </hi>
-                        <hi rend="italic" xml:space="preserve">erhielten die hier Genannten mit Ah. E. v. 15. 8. 1869 die vorgeschlagenen Auszeichnungen. </hi>
+                  <p>Hinsichtlich des vom Statthalter von Dalmatien gestellten Antrages auf Erwirkung des Ordens der eisernen Krone I. Klasse für den [] von Zara Maupas, welchen der Minister des Innern in Übereinstimmung mit der Konferenz dahin zu modifizieren gedächte, dass für den genannten []politen die Verleihung des Großkreuzes des Franz-Joseph-Ordens zu beantragen wäre, wird der Ministerpräsident vorerst Gelegenheiten []fälligen Ah. Intentionen Sr. k. u. k. Majestät einzuholen<note type="footnote" n="1" rend="footnote text">
+                        <hi rend="italic" xml:space="preserve">Auf Vorträge Giskras v. 11. 8. 1869, </hi>ebd., KZ. 2997/1869, <hi rend="italic" xml:space="preserve">bzw. v. 15. 8. 1869, </hi>ebd., KZ. 2996/1869, <hi rend="italic" xml:space="preserve">erhielten die hier Genannten mit Ah. E. v. 15. 8. 1869 die vorgeschlagenen Auszeichnungen. </hi>
                      </note>.</p>
                </div>
-               <div type="agenda_item" xml:id="top_01_01_NaN_3">
-                  <head><label>
-                        <num>III </num>
-                     </label></head>
+               <div type="agenda_item" xml:id="top_01_01_249_3">
+                  <head>
+                     <label>
+                        <num n="3">III</num>. </label>Detto im Ressort des Ministeriums für Kultus und Unterricht</head>
                   <p>III. Der Minister des Innern bringt die im Ressort des Ministeriums für Kultus und Unterricht vorliegenden Auszeichnungsanträg e zur Sprache, welche zunächst verdiente Persönlichkeiten aus dem Stande der früheren Diözesanschulenoberaufseher betreffen.</p>
                   <p>Die Konferenz einigte sich, dass zu beantragen wären:</p>
                   <p rend="list">1. für den Domherrn Stöger in Wien, früheren Diözesanschulenoberaufseher und auch gegenwärtig Bezirksschulinspektor für Wien der Orden der eisernen Krone III. Klasse. </p>
                   <p rend="list">2. für den gewesenen Schulaufseher in Graz Dom[] Johann Gödl.</p>
                   <p rend="list">3. für den Domherrn Dr. Valentin Müller in Klagenfurt, früher ebenfalls Diözesanschulenoberaufseher. </p>
                   <p rend="list">4. für den bischöflichen Generalvikar des griechisch-orientalischen Bistums für die Bukowina Theophil Bendella.</p>
-                  <p rend="list">5. dann für den Direktor des Gymnasiums in Eger Anton Frind wegen seiner vorzüglichen Leistungen im Lehrfache das Ritterkreuz des Franz-Joseph-Ordens<note type="footnote" n="1">
-                        <hi rend="italic" xml:space="preserve">Auf Vortrag Hasners v. 10. 8. 1869 erhielten die hier Genannten, </hi>
-                        <hi rend="italic" xml:space="preserve">Stöger, Gödl und Müller), </hi>
-                        <hi rend="italic" xml:space="preserve">(Frind) und </hi>
-                        <hi rend="italic">(Bendella) mit Ah. E. v. 15. 8. 1869 die angesuchten Auszeichnungen</hi>
-                     </note>.</p>
-                  <p>Der Minister des Innern bringt ferner den im Ministerrate bereits vorläufig besprochenen Antrag des Ministers Ritter von Hasner wegen Erwirkung des Ordens der eisernen Krone II. Klas se für den Sektionschef Dr. Glaser zur Erörterung<note type="footnote" n="1">
+                  <p rend="list">5. dann für den Direktor des Gymnasiums in Eger Anton Frind wegen seiner vorzüglichen Leistungen im Lehrfache das Ritterkreuz des Franz-Joseph-Ordens<note type="footnote" n="1" rend="footnote text">
+                        <hi rend="italic" xml:space="preserve">Auf Vortrag Hasners v. 10. 8. 1869 erhielten die hier Genannten, </hi>ebd., KZ. 2970/1869 (<hi rend="italic" xml:space="preserve">Stöger, Gödl und Müller), </hi>ebd., KZ. 2971/1869 <hi rend="italic" xml:space="preserve">(Frind) und </hi>ebd., KZ. 2973/1869 <hi rend="italic">(Bendella) mit Ah. E. v. 15. 8. 1869 die angesuchten Auszeichnungen</hi>.</note>.</p>
+                  <p>Der Minister des Innern bringt ferner den im Ministerrate bereits vorläufig besprochenen Antrag des Ministers Ritter von Hasner wegen Erwirkung des Ordens der eisernen Krone II. Klas se für den Sektionschef Dr. Glaser zur Erörterung<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic">Eine Auszeichnung für Glaser war bereits in MR. II v. 2. 8. 1869/VII erörtert worden.</hi>
                      </note>.</p>
                   <p>Über die Bemerkung des Justizministers, dass ihm für diese Auszeichnung Glasers insoferne gegenwärtig keine Veranlassung vorzuliegen scheine, als bei aller Anerkennung der vorzüglichen Leistungen desselben im Fache der Legislation, Glaser doch nu r verhältnismäßig kurze Zeit im Amte sei, zu welchem Amt er eben nur in der Voraussetzung besonderer Leistungen aus einem anderen Wirkungskreise berufen worden [], ihm von diesem Standpunkte aus nicht angezeigt erscheine, mit [] Auszeichnungen solcher Sektionschefs so schnell vorzugehen, dass aber die Auszeichnung Glasers die anderer in gleichem Falle befindlicher Sektionschefs notwendig zur Folge haben müsste, wie namentlich die [] seit sehr langer Zeit im Staatsdienste befindlichen, in jeder Beziehung ausgezeichneten und mit weit umfassenderen legislativen Arbeiten in Anspruch genommenen Sektionschefs Ritter von Waser, beschließt der Ministerrat der von dem Justizminister betonten prinzipiellen Anschauung beitretend ein hellig, dass von dem Ergebnisse der früheren, in Abwesenheit der Minister des Innern und der Justiz gepflogenen Besprechung abzusehen und den Antrag des Ministers für Kultus und Unterricht wegen des Sektionschefs Glaser für diesmal fallenzulassen, nachdem es dem Minister Ritter von Hasner freistehe, denselben unter Geltendmachung der für ihn maßgebenden Motive bei dem nächsten sich im Monate November d. J. ergebenden Anlasse wieder [].</p>
-                  <p>Infolgedessen wird der Ministerpräsident von der Vorlage des betreffenden bisher reservierten Ministerratsprotokolles vom 13. Juli an Se. k. u. k. apost. Majestät absehen<note type="footnote" n="1">
+                  <p>Infolgedessen wird der Ministerpräsident von der Vorlage des betreffenden bisher reservierten Ministerratsprotokolles vom 13. Juli an Se. k. u. k. apost. Majestät absehen<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">In dem vorhandenen MRProt. v. 13. 7. 1869 findet sich kein Hinweis auf Glaser, zu ihm siehe </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Österreichisches Biographisches Lexikon </hi>
-                        <hi rend="Kapitälchen">.</hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Österreichisches Biographisches Lexikon </hi>2, 3 f<hi rend="Kapitälchen">.</hi>
                         <hi rend="italic" xml:space="preserve"> Das diese Angelegenheit behandelnde MRProt. v. 30. 1. 1870/I ist nicht mehr vorhanden. Julius Glaser erhielt auf Vortrag Hasners v. 30. 1. 1870 mit Ah. E. v. 2. 2. 1870 das Komturkreuz mit Stern des Franz-Joseph-Ordens, </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>
-                        <hi rend="italic">.</hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>Kab. Kanzlei, KZ. 409/1870<hi rend="italic">.</hi>
                      </note>.</p>
-                  <p>Bezüglich der weiteren, von Minister Ritter von Hasner beabsichtigten Anträge wegen Verleihung des Ordens der eisernen Krone III. Klasse an den Sektionsrat im Unterrichtsministerium Herrmann und den Professor des Polytechnikums in Wien Dr. Beer beschließt die Konferenz einhellig, dass diese Anträge ebenfalls bis zum November d. J. zu ajournieren wären, wo sie dann Minister Ritter von Hasner neuerlich zur Sprache bringen würde<note type="footnote" n="1">
+                  <p>Bezüglich der weiteren, von Minister Ritter von Hasner beabsichtigten Anträge wegen Verleihung des Ordens der eisernen Krone III. Klasse an den Sektionsrat im Unterrichtsministerium Herrmann und den Professor des Polytechnikums in Wien Dr. Beer beschließt die Konferenz einhellig, dass diese Anträge ebenfalls bis zum November d. J. zu ajournieren wären, wo sie dann Minister Ritter von Hasner neuerlich zur Sprache bringen würde<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Fortsetzung des Gegenstandes über Herrmann in MR. v. 21. 12. 1869/II (nicht mehr vorhanden). Auf Vortrag Hasners v. 23. 12. 1869 erhielt Alois Herrmann mit Ah. E. v. 27. 12. 1869 den Orden der Eisernen Krone III. Klasse, </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>
-                        <hi rend="italic" xml:space="preserve">Adolf Beer erhielt nie eine Auszeichnung, zu ihm siehe </hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>Kab. Kanzlei, KZ. 4624/1869. <hi rend="italic" xml:space="preserve">Adolf Beer erhielt nie eine Auszeichnung, zu ihm siehe </hi>
                         <hi rend="Kapitälchen">Biographisches Lexikon zur Geschichte der böhmischen Länder 1,67.</hi>
                      </note>.</p>
                </div>
-               <div type="agenda_item" xml:id="top_01_01_NaN_4">
-                  <head><label>
-                        <num>IV </num>
-                     </label></head>
+               <div type="agenda_item" xml:id="top_01_01_249_4">
+                  <head>
+                     <label>
+                        <num n="4">IV</num>. </label>Detto im Handelsministerium</head>
                   <p>IV. Der Handelsminister bespricht die in seinem Ressort sich ergebenden Auszeichnungsanträge, und stimmt die Konferenz einhellig zu, dass beantragt werde:</p>
                   <p rend="list">1. für den gewesenen Präsidenten der Handelskammer in Linz Franz Hon auer ?? wegen seiner verdienstlichen industriellen Tätigkeit als Schafwollenfabrikant,</p>
                   <p rend="list">2. für Franz Gustav [Neufeld] in St. Veit ebenfalls wegen []genderen industriellen [],</p>
@@ -203,54 +204,42 @@
                   <p rend="list">4. für den Oberinspektor der Kaiser-Ferdinands-Nordbahn Franz St[ockert] wegen verdienstlichen Wirkens im []bahnwesen, an dessen bisher meist von anderen Ressorts angeregten Anerkennung das Handelsministerium zunächst ein dienstliches Interesse habe.</p>
                   <p rend="list">5. für den Ministerialsekretär der Abteilung des Handelsministeriums für Post- und Telegrafen Wilhelm Dew[éz],</p>
                   <p rend="list">6. und für den Direktionssekretär der Direktion der Staatstelegrafen Ludwig Hirschfeld wegen ihrer Verdienste um die Gründung und Leitung des für Zwecke der Pressleitung mit anerkennenswerten Erfolgen und verhältnismäßig geringeren Kosten []stehenden Telegrafenkorrespondenzbüros,</p>
-                  <p>für sämtliche Genannten das Ritterkreuz des Franz-Joseph-Ordens<note type="footnote" n="1">
+                  <p>für sämtliche Genannten das Ritterkreuz des Franz-Joseph-Ordens<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Auf Vortrag Pleners v. 7. 8. 1869 bzw. 8. 8. 1869 erhielten die hier Genannten, </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>
-                        <hi rend="italic" xml:space="preserve">(Honauer), </hi>
-                        <hi rend="italic" xml:space="preserve">(Neufeld), </hi>
-                        <hi rend="italic" xml:space="preserve">(Stockert, Schreiner), </hi>
-                        <hi rend="italic">(Dewéz, Hirschfeld) mit Ah. E. v. 15. 8. 1869 die angesuchten Auszeichnungen.</hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>Kab. Kanzlei, KZ. 2908&amp;1869 <hi rend="italic" xml:space="preserve">(Honauer), </hi>ebd., KZ. 2909/1869 <hi rend="italic" xml:space="preserve">(Neufeld), </hi>ebd., KZ. 2905/1869 <hi rend="italic" xml:space="preserve">(Stockert, Schreiner), </hi>ebd., KZ.2906/1869 <hi rend="italic">(Dewéz, Hirschfeld) mit Ah. E. v. 15. 8. 1869 die angesuchten Auszeichnungen.</hi>
                      </note>.</p>
                </div>
-               <div type="agenda_item" xml:id="top_01_01_NaN_5">
-                  <head><label>
-                        <num>V </num>
-                     </label></head>
-                  <p>V. Der Handelsminister gibt der Konferenz von seinem Vorhaben Kenntnis, bei der Post die sogenannten Korrespondenzkarten einzuführen, welche für kurze Mitteilungen benützt werden können und von der Postanstalt unversiegelt gegen Entrichtung des für Kreuzbandsendungen bestehenden geringen Portos von 2 Kreuzern vorläufig im Bereiche der österreichisch-ungarischen Monarchie zu befördern wären<note type="footnote" n="1">
+               <div type="agenda_item" xml:id="top_01_01_249_5">
+                  <head>
+                     <label>
+                        <num n="5">V</num>. </label>Einführung von Korrespondenzkarten im Postverkehr</head>
+                  <p>V. Der Handelsminister gibt der Konferenz von seinem Vorhaben Kenntnis, bei der Post die sogenannten Korrespondenzkarten einzuführen, welche für kurze Mitteilungen benützt werden können und von der Postanstalt unversiegelt gegen Entrichtung des für Kreuzbandsendungen bestehenden geringen Portos von 2 Kreuzern vorläufig im Bereiche der österreichisch-ungarischen Monarchie zu befördern wären<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Die Idee stammte von Emanuel Hermann und war bereits Anfang des Jahres publiziert worden, </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Neue Freie Presse </hi>
-                     </note>.</p>
+                        <hi rend="Kapitälchen" xml:space="preserve">Neue Freie Presse </hi>v. 26. 1. 1869.</note>.</p>
                   <p>Diese Einrichtung stelle sich namentlich für den Geschäftsverkehr als sehr zweckmäßig dar, wo derlei kurze, keinerlei Geheimhaltung bedürftige Mitteilungen, wie z. B. Avisos über abgegangene oder eingetroffene Sendungen, häufig vorkommen.</p>
                   <p>Die Ausdehnung dieser, nach erzieltem Einvernehmen mit dem ungarischen Ministerium vorerst auf die Monarchie beschränkten Einrichtung auf andere Länder, mit welchen Postverträge bestehen, sei zu erwarten, nachdem schon jetzt Eröffnungen vorliegen, welchen zufolge man sowohl in der Schweiz als im Norddeutschem Bunde geneigt zu sein scheine, in dieser Richtung mit Österreich Vereinbarungen zu treffen.</p>
                   <p>Der Ministerrat erklärt sich mit dieser, als höchst zweckmäßig erkannten Maßregel einhellig einverstanden.</p>
-                  <p>Rücksichtlich dessen, was die betreffenden Blätter, welche der Handelsminister zur Ansicht mitteilt, in [] zu enthalten hätten, wurde sich daher geeiniget, dass die projektierte Klausel [] der Nichtbeförderung offenbarer Unanständigkeiten oder Ehrenbeleidigungen insoferne überflüssig sei, als in dieser Beziehung die ohnedies bestehenden Postdirektiven, welche in der bezüglichen Kundmachungsverordnung noch speziell in Erinnerung gebracht werden könnten und daher die gedruckte Bemerkung auf den Blättern „Die Postanstalt übernimmt keine Verantwortung für den Inhalt der Mitteilungen“ vollkommen genug wäre. Ebenso wurde es als überflüssig und als möglicherweise beirrend erkannt, dass auf den Blättern das Wort „Bestimmungsort“ gedruckt erscheine<note type="footnote" n="1">
+                  <p>Rücksichtlich dessen, was die betreffenden Blätter, welche der Handelsminister zur Ansicht mitteilt, in [] zu enthalten hätten, wurde sich daher geeiniget, dass die projektierte Klausel [] der Nichtbeförderung offenbarer Unanständigkeiten oder Ehrenbeleidigungen insoferne überflüssig sei, als in dieser Beziehung die ohnedies bestehenden Postdirektiven, welche in der bezüglichen Kundmachungsverordnung noch speziell in Erinnerung gebracht werden könnten und daher die gedruckte Bemerkung auf den Blättern „Die Postanstalt übernimmt keine Verantwortung für den Inhalt der Mitteilungen“ vollkommen genug wäre. Ebenso wurde es als überflüssig und als möglicherweise beirrend erkannt, dass auf den Blättern das Wort „Bestimmungsort“ gedruckt erscheine<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Mit Verordnung des Handelsministeriums v. 22. 9. 1869 wurde die Einführung der Korrespondenzkarte geregelt, publiziert als </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Rgbl. </hi>
-                        <hi rend="italic" xml:space="preserve">Zur Genese und weiteren Entwicklung der Korrespondenz- bzw. Postkarte siehe </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Zimmerl, </hi>
-                     </note>.</p>
+                        <hi rend="Kapitälchen" xml:space="preserve">Rgbl. </hi>Nr. 148/1869. <hi rend="italic" xml:space="preserve">Zur Genese und weiteren Entwicklung der Korrespondenz- bzw. Postkarte siehe </hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Zimmerl, </hi>125 Jahre Postkarte.</note>.</p>
                </div>
-               <div type="agenda_item" xml:id="top_01_01_NaN_6">
-                  <head><label>
-                        <num>VI </num>
-                     </label></head>
-                  <p>VI. Der Handelsminister referiert in der Angelegenheit der Reorganisierung der statistischen Zentralkommission und der im Verbande derselben stehenden Direktion für administrative Statistik<note type="footnote" n="1">
+               <div type="agenda_item" xml:id="top_01_01_249_6">
+                  <head>
+                     <label>
+                        <num n="6">VI</num>. </label>Abschluss eines Übereinkommens mit dem ungarischen Ministerium in Bezug auf die Statistik und Ausscheidung der statistischen Zentralkommission sowie der Direktion für administrative Statistik aus dem Ressort des Obersten Gerichtshofes mit vorläufiger Unterstellung unter das Handelsministerium</head>
+                  <p>VI. Der Handelsminister referiert in der Angelegenheit der Reorganisierung der statistischen Zentralkommission und der im Verbande derselben stehenden Direktion für administrative Statistik<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Die Zentralkommission für die administrative Statistik war mit Erlass des Präsidenten der obersten Rechnungskontrolbehörde v. 3. 3. 1863 ins Leben gerufen worden, publiziert als </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Rgbl. </hi>
-                        <hi rend="italic" xml:space="preserve">, und unterstand laut § 6 ihrer Statuten unmittelbar dem Präsidenten der obersten Rechnungskontrolbehörde; im § 7 war festgehalten worden, dass die Direktion der administrativen Statistik der Zentralkommission als ausführendes Organ in geschäftlicher Beziehung untergeordnet war, siehe dazu </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Tesar, </hi>
-                     </note>.</p>
-                  <p>Diese durch die eingetretenen staatsrechtlichen Veränderungen bedingte Reorganisation habe bereits den Gegenstand langer und eingehender Verhandlungen zwischen dem diesseitigen und dem ungarischen und dem Reichsfinanzministerium gebildet<note type="footnote" n="1">
+                        <hi rend="Kapitälchen" xml:space="preserve">Rgbl. </hi>Nr. 24/1863<hi rend="italic" xml:space="preserve">, und unterstand laut § 6 ihrer Statuten unmittelbar dem Präsidenten der obersten Rechnungskontrolbehörde; im § 7 war festgehalten worden, dass die Direktion der administrativen Statistik der Zentralkommission als ausführendes Organ in geschäftlicher Beziehung untergeordnet war, siehe dazu </hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Tesar, </hi>Oberste Rechnungskontolbehörde 16.</note>.</p>
+                  <p>Diese durch die eingetretenen staatsrechtlichen Veränderungen bedingte Reorganisation habe bereits den Gegenstand langer und eingehender Verhandlungen zwischen dem diesseitigen und dem ungarischen und dem Reichsfinanzministerium gebildet<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Vgl. die Darstellung des zuständigen Referenten vom Februar 1869 über die stattgefundenen Verhandlungen, </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Ava., </hi>
-                        <hi rend="italic" xml:space="preserve">und das Schreiben Taaffes an Plener v. 3. 2. 1869, in dem er über die ungarischen Vorschläge berichtet, </hi>
-                     </note>.</p>
+                        <hi rend="Kapitälchen" xml:space="preserve">Ava., </hi>HM. , Präs. 22/1869 <hi rend="italic" xml:space="preserve">und das Schreiben Taaffes an Plener v. 3. 2. 1869, in dem er über die ungarischen Vorschläge berichtet, </hi>ebd., Präs. 79/1869.</note>.</p>
                   <p>Es erscheine jetzt dringend, diese Verhandlungen, wenigstens soweit es die Hauptfrage betreffe, zum Abschlusse zu bringen, nachdem der Präsident des Obersten Rechnungshofes für die diesseitigen Länder, welchem die statistische Zentralkommission samt der Direktion für administrative Statistik bisher untergeordnet gewesen sei, nunmehr auf die Ausscheidung derselben aus seinem Ressort dringe und erklärt habe, den betreffenden Aufwand in sein Budget pro 1870 nicht mehr aufnehmen zu wollen.</p>
                   <p>Im Laufe der Verhandlungen seien verschiedene Projekte über die Umstellung der statistischen Zentralkommission zur Sprache gekommen in der Richtung, welche Organe zu schaffen wären,</p>
                   <p>um den Anforderungen [] sowohl in Beziehung auf die administrative Statistik der beiden [] als für die Gesamtstatistik, soweit für gewisse Zweige eine solche nach [] Zoll- und Handelsbündnisses mit Ungarn in Aussicht genommen erscheint, nachdem der Fortbestand der statistischen Zentralkommission in Wien als Organ für diese Reichshälfte und gleichzeitig für Zwecke der gemeinsamen Statistik, welcher von dieser Kommission ursprünglich angestrebt worden war, bei der gegenwärtigen staatsrechtlichen Gestaltung der Monarchie von vorneherein ausgeschlossen erschien.</p>
-                  <p>Nachdem ein von dem verstorbenen Präsidenten des gemeinsamen Obersten Rechnungshofes Freiherrn von Hock herrührendes Projekt der Errichtung einer statistischen Kommission für diese Länder, einer solchen für Ungarn und einer dritten für gemeinsame Angelegenheiten auf Seite des ungarischen Ministeriums den größten Anständen in Bezug auf die Durchbringbarkeit am Reichstage begegnet und infolge dessen sowie in Rücksicht auf die bedeutende Kostenvermehrung beseitigt worden war, handelt es sich gegenwärtig darum, dass mit der ungarischen Regierung ein Übereinkommen über die Modalitäten der Durchführung, des erwähnten Artikels X des Zoll- und Handelsbündnisses mit Ungarn getroffen werde, welcher besage, dass die Ministerien beider Teile im Wege der Vereinbarung dafür sorgen werden, dass das statistische Materiale (Zölle, Handel, Schifffahrt usf. betreffend) aus beiden Ländergebieten in einem Gesamtoperate zusammengestellt werde<note type="footnote" n="1">
-                        <hi rend="Kapitälchen" xml:space="preserve">Rgbl. </hi>
-                     </note>.</p>
+                  <p>Nachdem ein von dem verstorbenen Präsidenten des gemeinsamen Obersten Rechnungshofes Freiherrn von Hock herrührendes Projekt der Errichtung einer statistischen Kommission für diese Länder, einer solchen für Ungarn und einer dritten für gemeinsame Angelegenheiten auf Seite des ungarischen Ministeriums den größten Anständen in Bezug auf die Durchbringbarkeit am Reichstage begegnet und infolge dessen sowie in Rücksicht auf die bedeutende Kostenvermehrung beseitigt worden war, handelt es sich gegenwärtig darum, dass mit der ungarischen Regierung ein Übereinkommen über die Modalitäten der Durchführung, des erwähnten Artikels X des Zoll- und Handelsbündnisses mit Ungarn getroffen werde, welcher besage, dass die Ministerien beider Teile im Wege der Vereinbarung dafür sorgen werden, dass das statistische Materiale (Zölle, Handel, Schifffahrt usf. betreffend) aus beiden Ländergebieten in einem Gesamtoperate zusammengestellt werde<note type="footnote" n="1" rend="footnote text">
+                        <hi rend="Kapitälchen" xml:space="preserve">Rgbl. </hi>Nr. 4/1868.</note>.</p>
                   <p>Für eine solche Vereinbarung liegen Grundzüge vor, für welche sich auch namentlich der Reichsfinanzminister ausgesprochen habe, welche darauf hinauslaufen, dass in jeder Reichshälfte das statistische Materiale gesammelt und von dem in jeder Reichshälfte bestehenden statistischen Organe dem anderen mitgeteilt und dass auf Grundlage dieser Mitteilungen am Ende jeden Jahres ein statistisches Handbuch wie bisher herausgegeben werde, dass aber über die Mitteilung der Daten hinausgehend, kein weiterer organischer Verband zwischen den beiden Körpern Platz greife.</p>
                   <p>Der Handelsminister glaubt, [] wenn auf diese von ungarischer Seite [] ergangenen Propositionen eingegangen [???].</p>
                   <p>Was jedoch die Frage der Unterstellung der beiden Körper betrifft, glaubte der Minister des Innern die gesamte administrative Statistik für sein Ressort vindizieren zu sollen, weil das Materiale im Ressort des Handelsministeriums ein relativ kleines sei, in einigen Partien wie hinsichtlich der Zoll- und Besteuerungsverhältnisse vom Finanzministerium, also von anderwärts her beschafft werden müsse, während im Ressort des Ministerium des Innern sich die wichtigen Agenden der Volkszählung mit der sich daran reihenden großen Serie von statistischen Arbeiten von weittragender Bedeutung befinden und weil das Ministerium des Innern über die für die Sammlung statistischer Daten unentbehrlichen Organe zu verfügen habe.</p>
@@ -262,21 +251,17 @@
                   <p rend="list">1. das Übereinkommen mit dem ungarischen Ministerium im Sinne der obigen allgemeinen Grundzüge abgeschlossen und dass</p>
                   <p rend="list">2. die statistische Zentralkommission sowie die Direktion für administrative Statistik in ihrem gegenwärtigen Bestande und vorbehaltlich der von ihm (Handelsminister) künftig zu beantragenden Umstaltung derselben beziehungsweise der neuen Regelung der Funktionen der administrativen Statistik dem Handelsministerium sofort unterstellt werde, nachdem das Verbleiben derselben im Ressort des Obersten Rechnungshofes nicht [] tunlich erscheine.</p>
                   <p>Mit dem Antrage ad 1. war der Ministerrat einhellig einverstanden.</p>
-                  <p>Ebenso erkannte es die Konferenz einstimmig als notwendig an, dass die statistische Zentralkommission sowie die Direktion für administrative Statistik aus dem Wirkungskreise des Obersten Rechnungshofes schon jetzt ausgeschieden werde<note type="footnote" n="1">
+                  <p>Ebenso erkannte es die Konferenz einstimmig als notwendig an, dass die statistische Zentralkommission sowie die Direktion für administrative Statistik aus dem Wirkungskreise des Obersten Rechnungshofes schon jetzt ausgeschieden werde<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Auf Vortrag Pleners v. 14. 8. 1869 genehmigte Franz Joseph mit Ah. E. v. 18. 8. 1869 den Beschluss des Ministerrates hinsichtlich der Übernahme der Direktion für administrative Statistik und der statistischen Zentralkommission durch das Handelsministerium, </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>
-                        <hi rend="italic" xml:space="preserve">Mit Schreiben v. 26. 8. 1869 teilte Plener Mercandin mit, dass das Handelsministerium die Kosten für 1870 übernehmen wird; mit einem weitern Schreiben v. 8. 10. 1869 an Gorové übermittelte er seinen Entwurf des Übereinkommens zur Herstellung einer gemeinsamen Statistik, alles in </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Ava., </hi>
-                        <hi rend="italic" xml:space="preserve">Fortsetzung des Gegenstandes in MR. III v. 17. 8. 1870/IV (nicht mehr vorhanden). Mit Ah. E. v. 28. 8. 1870 auf Vortrag Stremayrs v. 23. 8. 1870 wurden die beiden genannten statistischen Einrichtungen vom Ministerium für Kultus und Unterricht übernommen, </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>
-                        <hi rend="italic" xml:space="preserve">Zur Frage der Herstellung einer administrativen Statistik für das Gesamtreich </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Mayrhofer/Pace, </hi>
-                     </note>.</p>
+                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>Kab. Kanzlei, KZ. 3011/1869. <hi rend="italic" xml:space="preserve">Mit Schreiben v. 26. 8. 1869 teilte Plener Mercandin mit, dass das Handelsministerium die Kosten für 1870 übernehmen wird; mit einem weitern Schreiben v. 8. 10. 1869 an Gorové übermittelte er seinen Entwurf des Übereinkommens zur Herstellung einer gemeinsamen Statistik, alles in </hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Ava., </hi>HM., Präs. 503/1869. <hi rend="italic" xml:space="preserve">Fortsetzung des Gegenstandes in MR. III v. 17. 8. 1870/IV (nicht mehr vorhanden). Mit Ah. E. v. 28. 8. 1870 auf Vortrag Stremayrs v. 23. 8. 1870 wurden die beiden genannten statistischen Einrichtungen vom Ministerium für Kultus und Unterricht übernommen, </hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>Kab. Kanzlei, KZ. 3332/1870. <hi rend="italic" xml:space="preserve">Zur Frage der Herstellung einer administrativen Statistik für das Gesamtreich </hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Mayrhofer/Pace, </hi>Handbuch 1, 924.</note>.</p>
                </div>
-               <div type="agenda_item" xml:id="top_01_01_NaN_7">
-                  <head><label>
-                        <num>VII </num>
-                     </label></head>
+               <div type="agenda_item" xml:id="top_01_01_249_7">
+                  <head>
+                     <label>
+                        <num n="7">VII</num>. </label>Vorschlag wegen Ernennung des Hofrates des Obersten Gerichtshofes Ritter von Laminet zum Oberlandesgerichtspräsidenten in Brünn</head>
                   <p>VII. Der Justizminister referiert in der Angelegenheit der Besetzung der Stelle eines Oberlandesgerichtspräsidenten in Brünn, welche seit April d. J. vakant, füglich nicht länger unbesetzt bleiben könne.</p>
                   <p>Als Bewerber hiefür kommen in Frage der Präsident des Landesgerichtes in Brünn Graf Mazzuchelli, der zweite Präsident des Oberlandesgerichtes in Graz Ritter von Wenisch, der Präsident des Landesgerichtes in Prag von Waidele, dann die Hofräte des Obersten Gerichtshofes Ritter von Laminet und Hauck.</p>
                   <p>Der Oberste Gerichtshof hat in der Erwägung, dass nebst der geschäftlichen Tüchtigkeit rücksichtlich dieses Postens auf die Kenntnis der slawischen Sprache und das äußere Ansehen in die Waagschale falle, die Eignung der genannten Kandidaten der Würdigung unterzogen.</p>
@@ -305,87 +290,76 @@
                   <p>Es falle ihm dies umso []rer, als er die volle Überzeugung habe, dass die Ernennung Laminets minder guten Eindruck machen [], da Laminet sich in Mähren der[] Beliebtheit nicht erfreue, während Mazzuchelli allgemein geschätzt [] des Vertrauens in den weitesten Kreisen des Landes genieße.</p>
                   <p>Der Ministerpräsident und der Ackerbauminister halten dafür, dass unter den gegenwärtigen Umständen von dem Erfordernisse der Kenntnis der slawischen Landessprache unmöglich abgesehen werden könnte.</p>
                   <p>Der Handelsminister würde die Kenntnis der zweiten Landesprache nicht als absolut unentbehrlich für den Oberlandesgerichtspräsidenten zu Brünn halten.</p>
-                  <p>Die Konferenz stimmt sohin den Anträgen des Justizministers zu, so[] hinsichtlich des Vorschlages des [] von Laminet für die Stelle des Präsidenten des Oberlandesgerichtes in Brünn [] Erwirkung [???]<note type="footnote" n="1">
+                  <p>Die Konferenz stimmt sohin den Anträgen des Justizministers zu, so[] hinsichtlich des Vorschlages des [] von Laminet für die Stelle des Präsidenten des Oberlandesgerichtes in Brünn [] Erwirkung [???]<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Auf Vortrag Herbsts v. 10. 8. 1869 wurde mit Ah. E. v. 15. 8. 1869 Josef Laminet Ritter von Artztheim zum Präsident des mährisch-schlesischen Oberlandesgerichts bestellt; zu ihm siehe </hi>
                         <hi rend="Kapitälchen" xml:space="preserve">Biographisches Lexikon zur Geschichte der böhmischen Länder 2, 371, </hi>
                         <hi rend="italic" xml:space="preserve">zugleich erhielten Ernst Waidele Ritter von Willingen und Johann Graf Mazuchelli das Komturkreuz des Franz-Joseph-Ordens, </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>
-                     </note>.</p>
+                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>Kab. Kanzlei, KZ. 2963/1869.</note>.</p>
                </div>
-               <div type="agenda_item" xml:id="top_01_01_NaN_8">
-                  <head><label>
-                        <num>VIII </num>
-                     </label></head>
+               <div type="agenda_item" xml:id="top_01_01_249_8">
+                  <head>
+                     <label>
+                        <num n="8">VIII</num>. </label>Vorschlag wegen Ernennung des Landesgerichtspräsidenten Rossi-Sabatini zum Oberlandesgerichtspräsidenten in Zara</head>
                   <p>VIII. Der Justizminister erbittet sich und erhält die einhellige Zustimmung, für den vakanten Posten eines Oberlandesgerichtspräsidenten in Zara den in der Terna des Obersten Gerichtshofes − Rossi-Sabatini, Landesgerichtspräsident in Zara, Farfoglia, Ministerialrat im Justizministerium, und Tastl, Oberstaatsanwalt in Zara − an erster Stelle genannten Landesgerichtspräsidenten Rossi-Sabatini in Vorschlag bringen zu dürfen.</p>
-                  <p>Bezüglich des Ministerialrates Farfoglia bemerkt der Justizminister, dass, nachdem derselbe von Seite des [] Gerichtshofes aufgefordert [], um die Oberlandesgerichtspräsidentenstelle in Zara zu kompetieren, bei dem Umstande als auch der Vizepräsident des Landesgerichtes in Triest und Präsident des Handels- und Seegerichtes von Fluck darum eingeschritten sei, bei dem Obersten Gerichtshofes die Absicht zu bestehen scheine, Farfoglia für den eventuell vakant werdenden Posten des Oberlandesgerichtspräsidenten in Triest seinerzeit in Vorschlag zu bringen<note type="footnote" n="1">
+                  <p>Bezüglich des Ministerialrates Farfoglia bemerkt der Justizminister, dass, nachdem derselbe von Seite des [] Gerichtshofes aufgefordert [], um die Oberlandesgerichtspräsidentenstelle in Zara zu kompetieren, bei dem Umstande als auch der Vizepräsident des Landesgerichtes in Triest und Präsident des Handels- und Seegerichtes von Fluck darum eingeschritten sei, bei dem Obersten Gerichtshofes die Absicht zu bestehen scheine, Farfoglia für den eventuell vakant werdenden Posten des Oberlandesgerichtspräsidenten in Triest seinerzeit in Vorschlag zu bringen<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic">Alois Farfoglia wurde schließlich Präsident des Oberlandesgerichtes in Innsbruck, das diesbezügliche MRProt. v. 20. 9. 1870/II ist nicht mehr vorhanden.</hi>
                      </note>.</p>
-                  <p>Über die Anfrage des Ministerpräsidenten erwähnt der Justizminister, dass der Statthalter Ritter von Wagner infolge mündlicher Rücksprache sich mit dem obigen Vorschlage wegen Zara einverstanden erklärt habe, nachdem ihm die Untunlichkeit seines ursprünglichen Vorhabens, der Berufung des im Alter sehr vorgerückten Landtagspräsidenten und Advokaten Petrovics zu diesem Posten das Wort zu führen, dargetan worden war<note type="footnote" n="1">
+                  <p>Über die Anfrage des Ministerpräsidenten erwähnt der Justizminister, dass der Statthalter Ritter von Wagner infolge mündlicher Rücksprache sich mit dem obigen Vorschlage wegen Zara einverstanden erklärt habe, nachdem ihm die Untunlichkeit seines ursprünglichen Vorhabens, der Berufung des im Alter sehr vorgerückten Landtagspräsidenten und Advokaten Petrovics zu diesem Posten das Wort zu führen, dargetan worden war<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Auf Vortrag Herbsts v. 10. 8. 1869 wurde Franz Rossi-Sabatini mit Ah. E. v. 13. 8. 1869 zum Präsidenten des dalmatinischen Oberlandesgerichtes ernannt, </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>
-                     </note>. </p>
+                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>Kab. Kanzlei, KZ. 2953/1869.</note>. </p>
                </div>
-               <div type="agenda_item" xml:id="top_01_01_NaN_9">
-                  <head><label>
-                        <num>IX </num>
-                     </label></head>
+               <div type="agenda_item" xml:id="top_01_01_249_9">
+                  <head>
+                     <label>
+                        <num n="9">IX</num>. </label>Schreiben des Fürsten Sapieha in Bezug auf die Beibehaltung der Stellung als Landmarschall in Galizien</head>
                   <p>IX. Der Ackerbauminister gibt der Konferenz Kenntnis von dem Schreiben<note type="variant" n="1">
                         <hi rend="italic">Liegt dem Originalprotokoll in deutscher Abschrift bei.</hi>
                      </note>, welches der Landmarschall Fürst Sapieha in Erwiderung der von dem Ministerrate gewünschten Sondierung in bezug auf die Absichten des Fürsten hinsichtlich der Beibehaltung der Landmarschallswürde an ihn (Ackerbauminister) gerichtet habe und in welchem Fürst Sapieha erkläre, seine Stellung so lange nicht aufgeben zu wollen, so lange Se. Majestät ihn [] zu entheben geruhen werden [] Regierung sein [] möglich mache.</p>
-                  <p>Der Ministerrat nimmt [] Kenntnis<note type="footnote" n="1">
+                  <p>Der Ministerrat nimmt [] Kenntnis<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic">Fortsetzung des MR. v. 19. 7. 1869/XII. Nachdem Franz Joseph die Absicht, Sapieha offiziell zu fragen, ob er auf seiner Resignation beharre, zur Kenntnis genommen hatte (gleichzeitig mit der Ernennung Lawrowskis zum galizischen Landesmarschallstellvertreter, siehe MR. v. 19. 7. 1869/XI), setzte Potocki diese Absicht mit Schreiben an Sapieha v. 29. 7. 1869 in die Tat um, worauf Sapieha sein Verbleiben auf dem Landmarschallposten mit Schreiben an Potocki v. 2. 8. 1869 erklärte, zit. nach</hi>
-                        <hi rend="Kapitälchen" xml:space="preserve"> Pijaj, </hi>
-                     </note>.</p>
+                        <hi rend="Kapitälchen" xml:space="preserve"> Pijaj, </hi>Między polskim patriotyzmen a habsburskim lojalizmem 257 Anm. 668.</note>.</p>
                   <p>Der Minister des Innern [], dass dieser korrekten Erklärung des Fürsten Sapieha gegenüber seine dem [] Äußerungen bei dem Empfange der verschiedenen Deputationen nun [] zu erklären seien.</p>
                   <p>Er erbittet sich vom Ackerbauminister einen Auszug aus diesem Schreiben, um denselben Ritter von Possinger behufs seiner Orientierung streng vertraulich mitteilen zu können.</p>
-                  <p>Der Ackerbauminister wird diesem Wunsche gerne entsprechen<note type="footnote" n="1">
+                  <p>Der Ackerbauminister wird diesem Wunsche gerne entsprechen<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Ein Hinweis auf diese Angelegenheit konnte unter den Beständen des </hi>
                         <hi rend="Kapitälchen" xml:space="preserve">Ava., </hi>
                         <hi rend="italic">MI. nicht gefunden werden; Leo Sapieha blieb weitere sechs Jahre auf dem Posten des galizischen Landmarschalls.</hi>
                      </note>.</p>
                </div>
-               <div type="agenda_item" xml:id="top_01_01_NaN_10">
-                  <head><label>
-                        <num>X </num>
-                     </label></head>
-                  <p>X. Der Ackerbauminister erbittet sich und erhält die einhellige Zustimmung des Ministerrates, im Einverständnisse mit dem Minister des Innern im Zwecke der Abänderung des bisherigen auf der Ah. Entschließung vom 11. Jänner 1868<note type="footnote" n="1">
+               <div type="agenda_item" xml:id="top_01_01_249_10">
+                  <head>
+                     <label>
+                        <num n="10">X</num>. </label>Überweisung der Agenden legislativer Natur betreffend die Zusammenlegung und Zerstückung von Grundstücken vom Ministerium des Innern an das Ackerbauministerium</head>
+                  <p>X. Der Ackerbauminister erbittet sich und erhält die einhellige Zustimmung des Ministerrates, im Einverständnisse mit dem Minister des Innern im Zwecke der Abänderung des bisherigen auf der Ah. Entschließung vom 11. Jänner 1868<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Auf den gemeinsamen Vortrag von Plener und Potocki v. 7. 1. 1868, </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>
-                     </note> beruhenden Wirkungskreises des Ackerbauministeriums bei Sr. k. u. k. apost. Majestät den au. Antrag zu stellen, dass die [] Zusammenlegung und Zerstücklung von Grundstücken bezüglich Verhandlungen legislativer Natur aus den Wirkungskreise des Ministeriums des Innern in jenen des Ackerbauministeriums übergehen, welches letztere in diesen Fragen das erforderlichen Einvernehmen mit den übrigen dabei etwas beteiligten Ministerien zu pflegen haben werde.</p>
-                  <p>Diese Verfügung beanzeige sich deswegen, weil die Fragen über Kommassation und Dismembration der Grundstücke ihrer inneren Natur nach landwirtschaftliche Fragen seien und sowohl legislativ als administrativ in untrennbarem Zusammenhange mit anderen, dem Ackerbauminister bereits zugewiesenen ähnlichen Agenden, insbesondere mit jenen auf das Wasserrecht, das Forstgesetz usf. bezüglichen stehen, was auf Seite des Ministers des Innern auch anerkannt worden sei<note type="footnote" n="1">
-                        <hi rend="italic" xml:space="preserve">Auf Vortrag Potockis v. 5. 8. 1869 entschied Franz Joseph mit Ah. E. v. 13. 8. 1869 im Sinne des Ministerratsbeschlusses, </hi>
-                        <hi rend="italic" xml:space="preserve">publiziert als Verordnung des Ackerbauministeriums v. 27. 8. 1869, </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Rgbl. </hi>
-                     </note>. </p>
+                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>Kab. Kanzlei, KZ. 125/1868.</note> beruhenden Wirkungskreises des Ackerbauministeriums bei Sr. k. u. k. apost. Majestät den au. Antrag zu stellen, dass die [] Zusammenlegung und Zerstücklung von Grundstücken bezüglich Verhandlungen legislativer Natur aus den Wirkungskreise des Ministeriums des Innern in jenen des Ackerbauministeriums übergehen, welches letztere in diesen Fragen das erforderlichen Einvernehmen mit den übrigen dabei etwas beteiligten Ministerien zu pflegen haben werde.</p>
+                  <p>Diese Verfügung beanzeige sich deswegen, weil die Fragen über Kommassation und Dismembration der Grundstücke ihrer inneren Natur nach landwirtschaftliche Fragen seien und sowohl legislativ als administrativ in untrennbarem Zusammenhange mit anderen, dem Ackerbauminister bereits zugewiesenen ähnlichen Agenden, insbesondere mit jenen auf das Wasserrecht, das Forstgesetz usf. bezüglichen stehen, was auf Seite des Ministers des Innern auch anerkannt worden sei<note type="footnote" n="1" rend="footnote text">
+                        <hi rend="italic" xml:space="preserve">Auf Vortrag Potockis v. 5. 8. 1869 entschied Franz Joseph mit Ah. E. v. 13. 8. 1869 im Sinne des Ministerratsbeschlusses, </hi>ebd., KZ. 2941/1869; <hi rend="italic" xml:space="preserve">publiziert als Verordnung des Ackerbauministeriums v. 27. 8. 1869, </hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Rgbl. </hi>Nr. 144/1869</note>. </p>
                </div>
-               <div type="agenda_item" xml:id="top_01_01_NaN_11">
-                  <head><label>
-                        <num>XI </num>
-                     </label></head>
+               <div type="agenda_item" xml:id="top_01_01_249_11">
+                  <head>
+                     <label>
+                        <num n="11">XI</num>. </label>Austausch dreijähriger Hengste für die diesseitigen Hengstendepots</head>
                   <p>XI. Der Ackerbauminister teilt der Konferenz mit, dass, nachdem [] Handelsminister von [] Hinsicht auf das Material [] </p>
                   <p>der Hengstendepots vor Austragung der Rechtsfragen [] tun zu können, vorläufig [] erübrige, als jetzt die der [] Hengste Kopf gegen Kopf ausz[], wobei auf die Akquirierung der [] Rassen für diese Länder werde [] genommen werden.</p>
-                  <p>Die Konferenz nimmt [] zustimmend Kenntnis<note type="footnote" n="1">
+                  <p>Die Konferenz nimmt [] zustimmend Kenntnis<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Zum Übergang des Gestütwesens in die Zivilverwaltung und dessen Aufteilung zwischen den beiden Reichshälften nach dem österreichisch-ungarischen Ausgleich siehe </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Wagner, </hi>
-                        <hi rend="italic" xml:space="preserve">die diesbezüglichen Protokolle sind nicht mehr erhalten, MR. II v. 13. 2. 1869/I, dann über eine Interpellation darüber MR. v. 22. 2. 1869/II und MR. v. 31. 3. 1869/XIII. Bei der Aufteilung kam es zu Differenzen, die auch den Austausch des </hi>
-                        <hi rend="italic" xml:space="preserve">behinderten, siehe dazu das Schreiben Gorovés an Potocki v. 6. 7. 1869, in dem er auf diesen Umstand explizit hinweist, </hi>
-                        <hi rend="Kapitälchen">Ava., A</hi>
-                        <hi rend="italic" xml:space="preserve">Zu den diesbezüglichen – letztlich gescheiterten – Verhandlungen, </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Gassebner, </hi>
-                        <hi rend="italic">Fortsetzung des Gegenstandes in MR. v. 24. 11. 1869/IV (nicht mehr vorhanden).</hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Wagner, </hi>Die k. (u.) k. Armee 572; <hi rend="italic" xml:space="preserve">die diesbezüglichen Protokolle sind nicht mehr erhalten, MR. II v. 13. 2. 1869/I, dann über eine Interpellation darüber MR. v. 22. 2. 1869/II und MR. v. 31. 3. 1869/XIII. Bei der Aufteilung kam es zu Differenzen, die auch den Austausch des </hi>Zuchtmaterials <hi rend="italic" xml:space="preserve">behinderten, siehe dazu das Schreiben Gorovés an Potocki v. 6. 7. 1869, in dem er auf diesen Umstand explizit hinweist, </hi>
+                        <hi rend="Kapitälchen">Ava., A</hi>ckerbauministerium, Präs. 325/1869. <hi rend="italic" xml:space="preserve">Zu den diesbezüglichen – letztlich gescheiterten – Verhandlungen, </hi>
+                        <hi rend="Kapitälchen" xml:space="preserve">Gassebner, </hi>Pferdezucht 1, 25. <hi rend="italic">Fortsetzung des Gegenstandes in MR. v. 24. 11. 1869/IV (nicht mehr vorhanden).</hi>
                      </note>.</p>
                </div>
-               <div type="agenda_item" xml:id="top_01_01_NaN_12">
-                  <head><label>
-                        <num>XII </num>
-                     </label>Erziehungsbeitrag für den Sohn der Telegrafenleitungsdienerwitwe Saazer</head>
+               <div type="agenda_item" xml:id="top_01_01_249_12">
+                  <head>
+                     <label>
+                        <num n="12">XII</num>. </label>Erziehungsbeitrag für den Sohn der Telegrafenleitungsdienerwitwe Saazer</head>
                   <p>XII. Der Handelsminister bringt das „ab Imperatore“ bezeichnete Majestätsgesuch der Witwe Anton Saazer um Bewilligung eines Erziehungsbeitrages für ihren, nach ihrem als Telegrafenleitungsdiener bedienstet gewesenen Gatten hinterbliebenen Sohn wegen der eingetretenen Kontroverse mit den Finanzministerium zur Sprache.</p>
                   <p>Dieses letztere glaubte nämlich, sich gegen dem vom Handelsministerium beabsichtigten Gnadenantrag auf Ah. Bewilligung eines Erziehungsbeitrages täglicher vier Kreuzer [] aussprechen zu sollen, weil [] Saazer durch die Gewährung einer Gnadenpension ohnehin eine Begünstigung zuteil geworden sei und weil sie nur für den einen Sohn zu sorgen habe. </p>
                   <p>Der Handelsminister glaubt, dass nachdem der verstorbene Telegrafenleitungsdiener Saazer mehr als 29 Jahre bei dem Militär und im Telegrafendienste gedient und im letzteren die Pensionsfähigkeit für sich und seine Witwe nur deswegen nicht erlangte, weil bis zu seinem Ableben die Organisierung der Telegrafenaufsicht nicht erfolgt war, und nachdem die Witwe mit der Gnadenprovision täglicher 21 Kreuzer für ihren kränklichen, nunmehr siebenjährigen, die Schule mit gutem Erfolge besuchenden Sohn zu sorgen in der Tat nicht in der Lage sei, Billigkeitsrücksichten den vom Handelsminister beabsichtigten neuen Ah. Gnadenakt wohl ausreichend motivieren dürften.</p>
-                  <p>Die Konferenz erklärt sich mit diesem Antrage des Handelsministers einhellig einverstanden<note type="footnote" n="1">
+                  <p>Die Konferenz erklärt sich mit diesem Antrage des Handelsministers einhellig einverstanden<note type="footnote" n="1" rend="footnote text">
                         <hi rend="italic" xml:space="preserve">Auf Vortrag Pleners v. 15. 8. 1869 entschied Franz Joseph mit Ah. E. v. 22. 8. 1869 im Sinne des Ministerratsbeschlusses, </hi>
-                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>
-                     </note>.</p>
+                        <hi rend="Kapitälchen" xml:space="preserve">Hhsta., </hi>Kab. Kanzlei, KZ. 3024/1869.</note>.</p>
                </div>
             </div>
             <closer>
