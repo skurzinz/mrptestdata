@@ -1,0 +1,106 @@
+# This file is the source for an Deployment Diagram for the
+# *Ministerratsprotokolle Digital Edition* in both its workflows.
+# Created 2019-10-22 as a spinoff to the joint Activity Diagram version, now reflecting
+# basic rules of UML Deployment Diagrams.
+# Created by Stephan Kurz <forename.surname@oeaw.ac.at>
+# at the Austrian Academy of Sciences’
+# Institute for Modern and Contemporary Historical Research
+# The CC-BY 4.0 Licence <https://creativecommons.org/licenses/by/4.0/deed.de> applies.
+#
+# Process this file using dot or fdp, e.g.
+# fdp mrpdeploymentdiagram.gv -Tpdf -O
+# fdp mrpdeploymentdiagram.gv -Tsvg -O
+# fdp mrpdeploymentdiagram.gv -Tpng -O
+
+
+graph mrpdeploy {
+fontsize=20;
+maxlen = 2;
+node [shape="box3d"];
+# label="Ministerratsprotokolle 1848–1867: Digital Edition Deployment Diagram";
+label="";
+
+subgraph cluster_verlag{
+	label="«device»\n:hw.oeaw.ac.at";
+	xml [label="serves generic XML data\nfrom retro-digitization\n using XSL"];
+}
+
+xml -- cluster_datacur;
+
+subgraph cluster_arche{
+	label="«device»\n:arche.acdh.oeaw.ac.at";
+	arche [label="Fedora Commons 4\nA Resource Centre for the HumanitiEs\nOeAW long-term\nresearch data repository"];
+	dissemination [label="dissemination services\nTEI to \[html, txt, docx, pdf, RDF, ttl, …\]\nIIIF for images\nsustainable"];
+	arche -- dissemination;
+}
+
+subgraph cluster_webapp {
+	label="«device»\n:mrptestapp.acdh-dev.oeaw.ac.at";
+	exist [label="eXist-db\nserves TEI"];
+	fancystuff [label="REST API, network viz\ncalendar views\ncuration intense"];
+	exist -- fancystuff;
+
+}
+
+subgraph cluster_datacuration {
+	label="«device»\n:local machines";
+	subgraph cluster_datacur {
+		label="data curation";
+		shape="box3d";
+		"MS Word\n.docx" [height=".75"];
+		"TEI\n.xml" [shape="note", height=".75", style="filled", color="gray"];
+		"MS Word\n.docx" -- "TEI\n.xml" [dir="forward", len="1", minlen="1"]
+	}
+}
+
+cluster_datacur -- exist;
+
+subgraph cluster_transkribus {
+	label="«device»\n:transkribus.eu";
+	transkribus [label="HTR transcription"];
+}
+
+transkribus -- cluster_datacur;
+
+subgraph cluster_biblio {
+	label="«device»\n:zotero.org";
+	zotero [label="bibliography curation"];
+}
+
+zotero -- cluster_datacur;
+
+subgraph cluster_apisinstance {
+	label="«device»\n:mpr.acdh.oeaw.ac.at";
+	mpr [label="django-based\nAPIS\nentity database"];
+}
+
+mpr -- cluster_datacur [minlen="2"];
+
+subgraph cluster_versioning {
+	label="«device»\n:gitlab.com/acdh-oeaw/";
+	gitlab [label="git for versioning/collaboration\ndata and application"];
+}
+
+gitlab -- cluster_datacur;
+
+cluster_datacur -- arche;
+
+subgraph cluster_external {
+	label="«device»\n:various external";
+	links [shape="record" label="{anno.onb.ac.at for newspaper articles|authority files (GND/GeoNames)|'Linked Open Data cloud’|...}"];
+}
+
+links -- cluster_datacur;
+
+subgraph cluster_print {
+	label="«device»\n:paper";
+	print [label="book derivate"];
+}
+
+print -- arche [maxlen=1];
+
+mpr -- fancystuff [label="ids aligned", style="dotted"];
+mpr -- cluster_external [label="ids aligned", style="dotted"];
+
+
+}

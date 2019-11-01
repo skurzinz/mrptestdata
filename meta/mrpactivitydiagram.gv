@@ -1,0 +1,135 @@
+# This file is the source for an Activity Diagram for the
+# *Ministerratsprotokolle Digital Edition* in both its workflows.
+# Created 2019-10-22 from a previous version, now reflecting
+# basic rules of UML Activity Diagrams.
+# Created by Stephan Kurz <forename.surname@oeaw.ac.at>
+# at the Austrian Academy of Sciences’
+# Institute for Modern and Contemporary Historical Research
+# The CC-BY 4.0 Licence <https://creativecommons.org/licenses/by/4.0/deed.de> applies.
+#
+# Process this file using dot, e.g.
+# dot mrpactivitydiagram.gv -Tpdf -O
+# dot mrpactivitydiagram.gv -Tsvg -O
+# dot mrpactivitydiagram.gv -Tpng -O
+
+
+digraph mrpactivities {
+fontsize=20;
+node [shape="box", style="rounded"];
+graph [ splines = ortho ];
+# label="Ministerratsprotokolle 1848–1867: Digitisation Workflow Activity Diagram";
+label="";
+start [label=".", shape=circle,style=filled,color=black];
+end [label=".", shape=doublecircle,style=filled,color=black];
+selectwf [shape="diamond", style="", label="select process"];
+start -> selectwf; #[headport="n", tailport="w", minlen="1"];
+start -> datamodel [minlen="2"];
+nobook [label="no book edition\navailable", style=""];
+book [label="book edition\navailable", style=""];
+selectwf -> nobook [tailport="s"];
+nobook -> sources;
+selectwf -> book [tailport="w"];
+book -> books;
+
+
+subgraph cluster_verlag{
+	node [shape="box", style=rounded];
+	label="Retro digitization";
+	books [label="get printed books\n28 vols edited 1970–2015"];
+	pdfs [label="scan to\nPDF format\n~18000 pages"];
+	xml [label="publish as generic XML data\nhw.oeaw.ac.at/ministerrat/"];
+	xmlfile [shape="note", label="generic\nXML file"];
+	xml -> xmlfile;
+}
+
+subgraph cluster_serie3{
+	label="«Born digital» editing workflow";
+	selecttranscript [shape="diamond", style="", label="select method"];
+	sources [label="get original document\n(paper, held by Austrian State Archives)"];
+	pics [label="photograph document"];
+	docxfile0 [shape="note", label="raw MS Word .docx\n(one file per session)", height=".75"];
+	docxfile [shape="note", label="enriched\nMS Word\n.docx"];
+	jpgfile [shape="note", label=".jpg"];
+	enrich [label="add id references\nto named entities\nvia plugin"];
+	handwritten [style="", label="handwritten/\nfragmentary"];
+	typewritten [style="", label="typewritten and\ncomplete"];
+	getmetadata [label="get metadata"];
+	sources -> getmetadata -> docxfile;
+	selecttranscript -> handwritten [tailport="e"];
+	handwritten -> docx;
+	selecttranscript -> typewritten [tailport="w"];
+	typewritten -> transkribus;
+	docx [label="transcribe\nmanually\nusing dedicated\ndotx template"];
+	docx -> docxfile0 -> collate -> docxfile;
+	docxfile0 -> comment -> docxfile;
+	transkribus [label="transcribe using\ntranskribus.eu\n(HTR)"];
+	transkribus -> docxfile0;
+	docxfile0 -> enrich -> docxfile;
+	pics -> jpgfile;
+	{rank=same; transkribus docx};
+	{rank=same; jpgfile docxfile};
+	{rank=same; pics getmetadata};
+}
+
+subgraph cluster_metadata {
+	label="Auxiliary entity data";
+	collectNE [label="collect\nnamed entity data"];
+	curateNE [label="curate\nnamed entities"];
+	curateBibl [label="curate\nbibliography"];
+	storeAPIS [label="store in\nAPIS instance"];
+	collectNE -> curateNE [minlen="1"];
+	curateBibl -> NEtei [minlen="3"];
+	curateNE -> storeAPIS;
+}
+
+NE [shape="record", style="", label="{event|institution|person|place|work}"];
+NEtei [shape="record", style="", label="{tei:listEvent|tei:listOrg|tei:listPerson|tei:listPlace|tei:listbibl}"];
+storeAPIS -> NE [minlen="3"];
+NE -> NEtei [maxlen="1"];
+NEtei -> tei2;
+NE -> enrich [minlen="2"];
+enrich -> curateNE [dir="backwards"];
+comment -> curateBibl [dir="backwards"];
+
+{rank=same; NE NEtei}
+
+datamodel [label="do\ndata modeling"];
+datamodel -> collectNE [maxlen=".75"];
+
+transformdocx [label="run\nDOCX TEI P5\n(Ant/XSL)"];
+docxfile -> transformdocx;
+transformdocx -> tei;
+tei [shape="note", label="TEI XML"];
+tei2 [shape="note", label="enriched TEI\nXML file", style="filled", color="lightgray", height=".75"];
+
+sources -> pics;
+pics -> selecttranscript;
+books -> pdfs;
+pdfs -> xml;
+getmetadata -> NE;
+
+xmlfile -> transformxml2tei2 -> tei2;
+transformxml2tei2 [label="run custom XSL"];
+tei -> transformtei2tei -> tei2;
+transformtei2tei [label="run custom XSL"];
+tei2 -> "control output quality" -> tei2;
+jpgfile -> end;
+NE -> jpgfile [dir="back", minlen="4"];
+
+iflicence [shape="diamond", style="", label="licence?"];
+pub [label="publish and deploy"];
+dolicence [label="push for licencing"];
+
+tei2 -> iflicence;
+iflicence -> pub;
+iflicence -> dolicence;
+dolicence -> iflicence;
+pub -> end;
+
+{rank=same; transformtei2tei transformxml2tei2 tei transformdocx};
+{rank=same; iflicence pub};
+{rank=same; "control output quality" tei2};
+
+
+
+}
