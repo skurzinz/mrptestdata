@@ -5,13 +5,13 @@
             <!-- header completely incomplete and in the works. listEvent still missing, created by analyze/events.xql -->
             <title level="s" type="desc">Digitale Edition</title>
             <title level="s" type="main">Die Protokolle des cisleithanischen Ministerrates 1867-1918</title>
-            <title level="m" type="main" n="1">Band 1</title>
-            <title level="m" type="sub">1867</title>
+            <title level="m" type="main" n="2">Band 2</title>
+            <title level="m" type="sub">1869</title>
             <title level="a" type="desc">Sitzung 249</title>
-            <editor>Stefan Malfèr</editor>
+            <editor>Thomas Kletečka</editor>
             <meeting>
                <placeName>Wien</placeName>
-               <date when="1867-08-07"/>
+               <date when="1869-08-07"/>
             </meeting>
          </titleStmt>
          <editionStmt>
