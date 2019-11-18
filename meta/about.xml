@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -51,7 +50,18 @@
                         <item>Sources for this demo app are available on <ref target="https://www.github.com/skurzinz/mrptestapp/">GitHub</ref>.</item>
                     </list>
                 </p>
-                <p>Workflow diagram see <ref target="mrpretro.gv.svg">SVG file</ref>.</p>
+                <div>
+                    <figure>
+                        <head>Figure 1: Activity diagram: What is done?</head>
+                        <graphic url="../data/meta/mrpactivitydiagram.gv.svg"/>
+                        <figDesc>UML Activity diagram of what the editorial team of MRP is doing. Source: own work, see <ref target="../data/meta/mrpactivitydiagram.gv">source file</ref></figDesc>
+                    </figure>
+                    <figure>
+                        <head>Figure 2: Deployment diagram: Involved systems</head>
+                        <graphic url="../data/meta/mrpdeploymentdiagram.gv.svg"/>
+                        <figDesc>UML Deployment diagram of what systems are involved. Source: own work, see <ref target="../data/meta/mrpdeploymentdiagram.gv">source file</ref></figDesc>
+                    </figure>
+                </div>
             </div>
         </body>
     </text>
